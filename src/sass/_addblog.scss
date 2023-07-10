@@ -1,0 +1,66 @@
+.main{
+    .addBlog{
+            .blogForm{
+                background-image: linear-gradient(to top, rgb(14, 13, 13) ,transparent);
+                .container{
+                    .formBlog{
+                        width: 50%;
+                        padding: 7% 0;
+                        background-color: rgb(17, 17, 17);
+                        border-radius: 0px;
+                        @media screen and (max-width:1198px) {
+                            width:70%
+                        }
+                        @media screen and (max-width:767px) {
+                            width: 90%
+                        }
+                        @media screen and (max-width:575px) {
+                            width: 90%
+                        }
+                        form{
+                            label{
+                                font-family:  Friedrich Althausen;
+                                font-size: 16px;
+                                color: #F1EEE6;
+                            }
+                            input{
+                                background-color: black;
+                                border-radius: 0px;
+                                border:none;
+                                padding: 3% 2%;
+                            }
+                            input:focus{
+                                color: gray;
+                                box-shadow: none !important;
+                            }
+                            .areaDesc{
+                                background-color: black;
+                                border-radius: 0px;
+                                border:none;
+                                padding: 3% 2%;
+                            }
+                            .areaDesc:focus{
+                                color: gray;
+                                box-shadow: none !important;
+                            }
+                            div{
+                                .btnShare{
+                                    background-color: rgb(37, 35, 35);
+                                    border-radius: 0;
+                                    border: none;
+                                    padding: 2%;
+                                    width: 140px;
+                                    font-family: Friedrich Althausen;
+                                    color: black;
+                                    transition: .5s;
+                                    &:hover{
+                                        background-color: #b367d0;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+    }
+}

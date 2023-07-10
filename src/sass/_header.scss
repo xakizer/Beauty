@@ -1,0 +1,222 @@
+.main{
+    background-image: url(https://cdn.shopify.com/s/files/1/0014/5673/4311/files/body.png?v=1628322141);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    header{
+        .top{
+            .icons{
+                div{
+                    display: flex;
+                    justify-content: center;
+                    button{
+                        color: white;
+                        cursor: pointer;
+                        margin-top: 10px;
+                        font-size: 17px;
+                    }
+                }
+            }
+            
+            :last-child{
+             .button-group{
+                display: flex;
+                justify-content: space-around;
+                .mode{
+                    width: 45px;
+                    font-size: 15px;
+                    background-color: black;
+                    border: 1px solid black;
+                    border-radius: 5px;
+                    color: white;
+                    transition: .5s;
+                }
+                .btn{
+                    width: 130px;
+                    padding: 8px 8px;
+                    font-size: 15px;
+                    color: white;
+                    border: 1px solid black;
+                    background-color: black;
+                    transition: .5s;
+                }
+                .dropdown{
+                    .dropdown-menu{
+                        background-color: rgb(14,13,13);
+                        li{
+                            a{
+                                color:white;
+                                cursor:pointer;
+                                &:hover{
+                                    background-color: rgb(14,13,13) ;
+                                }
+                            }
+                        }
+                    }
+                }
+             }
+            }
+        }
+        .bottom{
+            .navbar{
+                background-color: rgb(20, 20, 20);
+                li{
+                    a{
+                        color: white;
+                        font-family: sans-serif;
+                        font-weight: bold;
+                        font-size: 17px;
+                        cursor: pointer;
+                        &:active{
+                            color: #b367d0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    background-color: rgb(14,13,13);
+    .navbar{
+        background-color: rgb(14,13,13);
+        transition: .5s;
+        li{
+            a{
+                color: white;
+                font-family: sans-serif;
+                font-weight: bold;
+                font-size: 17px;
+                cursor: pointer;
+                &:active{
+                    color: #b367d0;
+                }
+            }
+        }
+    }
+   
+}
+// HEADER MEDIA START
+@media screen and (max-width:2668px){
+    .main{
+        header{
+            .top{
+              :last-child{
+                .button-group{
+                    display: flex;
+                    justify-content: space-around;
+                    .btn{
+                        margin-right:8px;
+                    }
+                }
+              }
+            }
+        }
+    }
+}
+@media screen and (max-width:1399px){
+    .main{
+        header{
+            .top{
+              :last-child{
+                .button-group{
+                    display: flex;
+                    justify-content: space-around;
+                    .btn{
+                        margin-right:8px;
+                    }
+                }
+              }
+            }
+        }
+    }
+}
+@media screen and (max-width:990px){
+    .main{
+        header{
+            .top{
+                .icons{
+                    div{ 
+                        padding: 0;
+                        button{
+                        font-size: 20px;
+                        width: 80px;
+                    }
+                    }
+                }
+              :last-child{
+                .button-group{
+                    display: flex;
+                    justify-content: space-between;
+                    margin-top: 10px;
+                }
+              }
+            }
+        }
+    }
+}
+@media screen and (max-width:790px){
+    .main{
+        header{
+            .top{
+                .icons{
+                    div{ 
+                        padding: 0;
+                        button{
+                        font-size: 20px;
+                        width: 80px;
+                    }
+                    }
+                }
+              :last-child{
+                .button-group{
+                    display: flex;
+                    justify-content: space-between;
+                    margin-top: 10px;
+                    .btn{
+                        width: 125px;
+                        font-size: 10px;
+
+                    }
+                }
+              }
+            }
+        }
+    }
+}
+@media screen and (max-width:575px){
+    .main{
+        header{
+            .top{
+                .icons{
+                    div{ 
+                        padding: 0;
+                    button{
+                        font-size: 20px;
+                        width: 80px;
+                    }
+                    }
+                }
+              :last-child{
+                .button-group{
+                    margin-top: 5%;
+                    display: flex;
+                    justify-content: space-evenly;
+                    .btn{
+                        font-size: 15px;
+                    }
+                    .mode{
+                        font-size:15px;
+                    }
+                }
+              }
+            }
+        }
+    }
+}
+// HEADER MEDIA END

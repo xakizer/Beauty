@@ -1,0 +1,1043 @@
+{
+   "dataEn": [
+        {
+            "id":"1",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p18_bd192071-2165-4f3f-b9ba-6f690a8c817b.jpg?v=1535445274",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p19.jpg?v=1613739528",
+            "price":730.00,
+            "title":"Facial Cleanser",
+            "vendor":"Cindrella",
+            "type":"Cosmetics",
+            "color":"Black",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"2",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p12_87b879c8-1d89-4af2-92b4-1f1a24a365ef.jpg?v=1535444087",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p13_27360645-1caf-4593-b502-c7a26c1b9ac0.jpg?v=1535444216",
+            "price":218.00,
+            "title":"Deep Cleaner",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"Black",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"3",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p1_f03e6de5-d395-4f09-8afd-1bcb29af6485.jpg?v=1535440219",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p2_a9e2a04b-ead3-4e58-bd72-7fd9a47fff46.jpg?v=1535440219",
+            "price":221.00,
+            "title":"Face Magic Souffle",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"Black",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"4",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p11.jpg?v=1535441262",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "price":528.00,
+            "title":"Base Foundation",
+            "vendor":"Cindrella",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"5",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p19.jpg?v=1613739528",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p18_bd192071-2165-4f3f-b9ba-6f690a8c817b.jpg?v=1535445274",
+            "price":730.00,
+            "title":"Anti-Aging Cream",
+            "vendor":"Cindrella",
+            "type":"Cosmetics",
+            "color":"Gray",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"6",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p21_b206272b-87a5-4f1b-8d66-ce6c9f636356.jpg?v=1535449043",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p22_99f9a51e-f2a2-48fd-bad6-3f93d8e3d806.jpg?v=1535449043",
+            "price":539.00,
+            "title":"Fine Mist Spray",
+            "vendor":"Nyka",
+            "type":"Cosmetics",
+            "color":"Gray",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"7",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p23_f73001de-ca2d-4a07-8554-2cad2a18314f.jpg?v=1535448964",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p21_b206272b-87a5-4f1b-8d66-ce6c9f636356.jpg?v=1535449043",
+            "price":539.00,
+            "title":"Oil Replacement",
+            "vendor":"Nyka",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"8",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p24_a966d30b-dc32-44a9-bdf3-38ea9f42602a.jpg?v=1535448574",
+            "price":329.00,
+            "title":"Straight Hair Gel",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"Purple",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"9",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p16_733d7926-b401-48bd-9a11-b747ecd0243a.jpg?v=1535448457",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "price":329.00,
+            "title":"Hard Hair Gel",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"10",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p14_8fbf250a-cb1f-40e4-8efd-3072ef9ec892.jpg?v=1535444954",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p18_d4f92fb8-981f-473c-97b5-474a1dcb2036.jpg?v=1535444954",
+            "price":730.00,
+            "title":"Gentle Cleaner",
+            "vendor":"Cindrella",
+            "type":"Cosmetics",
+            "color":"Gray",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"11",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p15_00eabda7-1d39-4b34-9ade-b7101be72fd4.jpg?v=1535444087",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p12_87b879c8-1d89-4af2-92b4-1f1a24a365ef.jpg?v=1535444087",
+            "price":218.00,
+            "title":"Gentle Refreshing",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"12",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p9_6295342a-90ca-44a3-8bf6-2478fe2daaf1.jpg?v=1535443478",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p20.jpg?v=1535442830",
+            "price":729.00,
+            "vendor":"Mystique",
+            "type":"Cosmetics",
+            "color":"White",
+            "title":"Glowing Fairness"
+        },
+        {
+            "id":"13",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p8_0edc2e8f-9291-4d4d-b660-4a47b14b0924.jpg?v=1535443347",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p9_6295342a-90ca-44a3-8bf6-2478fe2daaf1.jpg?v=1535443478",
+            "price":729.00,
+            "title":"Moistruze Cream",
+            "vendor":"Mystique",
+            "type":"Cosmetics",
+            "color":"Black",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"14",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p11.jpg?v=1535441262",
+            "price":528.00,
+            "title":"Fairness BB Cream",
+            "vendor":"Cindrella",
+            "type":"Cosmetics",
+            "color":"Black",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"15",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p5_38bd97cc-4892-4985-a631-d4fa1e5c6a64.jpg?v=1535442273",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "price":528.00,
+            "title":"Perfect BB Cream",
+            "vendor":"Liva",
+            "type":"Cosmetics",
+            "color":"Gray",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"16",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6.jpg?v=1535440326",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p7.jpg?v=1535440317",
+            "price":121.00,
+            "title":"Saffron Face Gel",
+            "vendor":"Liva",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"17",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p4_6339854e-d428-47b4-902b-1f259f57a0ac.jpg?v=1535441086",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6.jpg?v=1535440326",
+            "price":121.00,
+            "title":"Whitening Gel",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"Black",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"18",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p3_d9d59530-7acb-4918-b0b3-9ed38dc102e6.jpg?v=1535439780",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p1.jpg?v=1535438569",
+            "price":221.00,
+            "title":"Complexion Cream",
+            "vendor":"Nyka",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"19",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p22_99f9a51e-f2a2-48fd-bad6-3f93d8e3d806.jpg?v=1535449043",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p21_cedfc838-e2b8-41b8-ad7d-17fdaf967998.jpg?v=1535448964",
+            "price":539.00,
+            "title":"Revitalizer Mist",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"Purple",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"20",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p24_a966d30b-dc32-44a9-bdf3-38ea9f42602a.jpg?v=1535448574",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "price":329.00,
+            "title":"Protection Mist",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"21",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p13.jpg?v=1535443616",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p12.jpg?v=1535443622",
+            "price":218.00,
+            "title":"Skin Cleanser",
+            "vendor":"Cindrella",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"22",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p20.jpg?v=1535442830",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p9.jpg?v=1535442830",
+            "price":729.00,
+            "title":"Whitening Day",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"23",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p11.jpg?v=1535441262",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "price":528.00,
+            "title":"Base Foundation",
+            "vendor":"Liva",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"24",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p7.jpg?v=1535440317",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6.jpg?v=1535440326",
+            "price":121.00,
+            "title":"Naturale Aloe",
+            "vendor":"Liva",
+            "type":"Cosmetics",
+            "color":"Gray",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"25",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p2.jpg?v=1535438562",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p1.jpg?v=1535438569",
+            "price":221.00,
+            "title":"Liquid Foundation",
+            "vendor":"Mystique",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"26",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p24.jpg?v=1535445415",
+            "price": 329.00,
+            "prevPrice":600.00,
+            "title":"Straight Hair Gel",
+            "vendor":"Mystique",
+            "type":"Cosmetics",
+            "color":"Purple",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"27",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p8_0edc2e8f-9291-4d4d-b660-4a47b14b0924.jpg?v=1535443347",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p9_6295342a-90ca-44a3-8bf6-2478fe2daaf1.jpg?v=1535443478",
+            "price": 729.00,
+            "prevPrice":800.00,
+            "title":"Moisturize Cream",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"Black",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"28",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p5_38bd97cc-4892-4985-a631-d4fa1e5c6a64.jpg?v=1535442273",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "price": 528.00,
+            "title":"Perfect BB Cream",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"29",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6_88f441ad-4352-4583-8210-d0e186c0292d.jpg?v=1535441086",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p7_2fa6a20b-2027-4761-9f38-f3fd4f2effa9.jpg?v=1535441114",
+            "price": 121.00,
+            "prevPrice":295.00,
+            "title":"Saffron Face Gel",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"Black",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"30",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p4_6339854e-d428-47b4-902b-1f259f57a0ac.jpg?v=1535441086",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6_88f441ad-4352-4583-8210-d0e186c0292d.jpg?v=1535441086",
+            "price": 121.00,
+            "prevPrice":300.00,
+            "title":"Whitening Gel",
+            "vendor":"Cindrella",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"31",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p13.jpg?v=1535443616",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p12.jpg?v=1535443622",
+            "price": 218.00,
+            "title":"Skin Cleanser",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"32",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p24.jpg?v=1535445415",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "price": 329.00,
+            "title":"Protection Mist",
+            "vendor":"Laura",
+            "type":"Cosmetics",
+            "color":"Purple",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"33",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p2.jpg?v=1535438562",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p1_f03e6de5-d395-4f09-8afd-1bcb29af6485.jpg?v=1535440219",
+            "price": 221.00,
+            "title":"Liquid Foundation",
+            "vendor":"Liva",
+            "type":"Cosmetics",
+            "color":"White",
+            "description":"Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras..."
+        },
+        {
+            "id":"34",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/img-6-1_600x.jpg?v=1613525859"       
+        },
+        {
+            "id":"35",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/img-7-1_600x.jpg?v=1613525859"       
+        },
+        {
+            "id":"36",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-12.jpg?v=1535436991",
+            "title":"Best Makeup Methods",
+            "descriptionFirst":"Ruis curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. ",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"37",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-11.jpg?v=1535436309",
+            "title":"Skin Glowing Makeups",
+            "descriptionFirst":"Pris sed aliquam nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed posuere ac mattis non nunc.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"38",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-10.jpg?v=1535436233",
+            "title":"Shades Gives Good Look",
+            "descriptionFirst":"Cames cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"39",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-9_470x.jpg?v=1535436167",
+            "title":"Foundation Cream's",
+            "descriptionFirst":"Tedes yum deriis juyoque gytatibus ot hytnis ous iouturient montes, tyucetur ridiculus mus. Donec quam felis, ultri cies nec, pelle ntes quer tuii oeurt yuiop retiu mrtyu ghfrty quis, sem. Nulla consequat massa quis enim.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"40",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-8.jpg?v=1535436070",
+            "title":"Premium Quality Brush",
+            "descriptionFirst":"Hnis nullam sagittis. Suspendisse pul vinar augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"41",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-7.jpg?v=1535435957",
+            "title":"High Quality Makeup Brush",
+            "descriptionFirst":"Nbis curabitur ullam ultr nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"42",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-6.jpg?v=1535435912",
+            "title":"Compact Powder Makeup",
+            "descriptionFirst":"Fames aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. ",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"43",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-5.jpg?v=1535435837",
+            "title":"Multi Colors Of Eye Shades",
+            "descriptionFirst":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"44",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-4.jpg?v=1535435806",
+            "title":"Collection Of Shades",
+            "descriptionFirst":"Muis sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"45",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-1.jpg?v=1535435361",
+            "title":"Searching For Foundation",
+            "descriptionFirst":"Ruis curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. ",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"46",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-2.jpg?v=1535435479",
+            "title":"Set Of Makeup Brush",
+            "descriptionFirst":"Pris sed aliquam nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed posuere ac mattis non nunc. ",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"47",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-3.jpg?v=1535435580",
+            "title":"Compact Powder Brush",
+            "descriptionFirst":"Aouvida In oiupis. Weklentesque pos qweesent wnipis. ferean posuere, sretor htd dersus dregiat vgrc aweue juyndit loic eu sollicitudin urna dolor sagittis lacus. Donec elit libero sodales nec, volutpat a suscipit non.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"48",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/abo-06_800x.jpg?v=1632384204",
+            "title":"JAIMA RAMSEY",
+            "description":"MANAGER"
+        },
+        {
+            "id":"49",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/abo-05_800x.jpg?v=1632384229",
+            "title":"JESSICA RAMOS",
+            "description":"HUMAN RESOURCES"
+        },
+        {
+            "id":"50",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/abo-04_800x.jpg?v=1632384246",
+            "title":"JENNIE GLOWER",
+            "description":"WEB DESIGNER"
+        },
+        {
+            "id":"51",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/abo-07_800x.jpg?v=1632384281",
+            "title":"EBONY PITTMAN",
+            "description":"PROJECT MANAGER"
+        }
+    ],
+   "dataAz": [
+        {
+            "id":"1",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p18_bd192071-2165-4f3f-b9ba-6f690a8c817b.jpg?v=1535445274",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p19.jpg?v=1613739528",
+            "price":730.00,
+            "title":"Üz Təmizləyici",
+            "vendor":"Cindrella",
+            "type":"Kosmetik",
+            "color":"Qara",
+            "description":"Avropa istehaslı,quru dəri tipləri üçün nəzərdə tutulmuş makiaj təmizləyici.Tərkibi təbii məhsullardan hazırlanıb.Gün ərzində yalnız bir dəfə isdifadə etməniz tövsiyə olunur..."
+        },
+        {
+            "id":"2",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p12_87b879c8-1d89-4af2-92b4-1f1a24a365ef.jpg?v=1535444087",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p13_27360645-1caf-4593-b502-c7a26c1b9ac0.jpg?v=1535444216",
+            "price":218.00,
+            "title":"Dərin Təmizləyici",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Qara",
+            "description":"Avropa istehaslı,yağlı dəri tipləri üçün nəzərdə tutulmuş dərin makiaj təmizləyici.Məhsul poraları dərindən təmizləyir və yağlılığı aradan qaldırır.Tərkibi təbii məhsullardan hazırlanıb.Gün ərzində yalnız bir dəfə isdifadə etməniz tövsiyə olunur..."
+        },
+        {
+            "id":"3",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p1_f03e6de5-d395-4f09-8afd-1bcb29af6485.jpg?v=1535440219",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p2_a9e2a04b-ead3-4e58-bd72-7fd9a47fff46.jpg?v=1535440219",
+            "price":221.00,
+            "title":"Sehrli Üz Təmizləyici",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Qara",
+            "description":"Avropa istehaslı,yağlı və qarışıq dəri tipləri üçün nəzərdə tutulmuş dərin makiaj təmizləyici.Məhsul poraları dərindən təmizləyir və yağlılığı aradan qaldırır.Tərkibi təbii məhsullardan hazırlanıb.Gün ərzində yalnız bir dəfə isdifadə etməniz tövsiyə olunur..."
+        },
+        {
+            "id":"4",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p11.jpg?v=1535441262",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "price":528.00,
+            "title":"Örtücü Baza",
+            "vendor":"Cindrella",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Yüksək keyfiyyətli örtücülüyə malikdir və dərinizi zərərli maddələrdən qoruyur.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır... "
+        },
+        {
+            "id":"5",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p19.jpg?v=1613739528",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p18_bd192071-2165-4f3f-b9ba-6f690a8c817b.jpg?v=1535445274",
+            "price":730.00,
+            "title":"Qırışlar üçün Krem",
+            "vendor":"Cindrella",
+            "type":"Kosmetik",
+            "color":"Boz",
+            "description":"Avropa istehsalı olan bu məhsul 30 yaş üzəri dəri tipləri üçün nəzərdə tutlmuşdur.Bu məhsul dərinizdə qırışların əmələ gəlməsinin qarşısını alır və qırışlı dəriləri bir sıra vitaminlər ilə qidalandırır.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır... "
+        },
+        {
+            "id":"6",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p21_b206272b-87a5-4f1b-8d66-ce6c9f636356.jpg?v=1535449043",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p22_99f9a51e-f2a2-48fd-bad6-3f93d8e3d806.jpg?v=1535449043",
+            "price":539.00,
+            "title":"İncə Qoxulu Sprey",
+            "vendor":"Nyka",
+            "type":"Kosmetik",
+            "color":"Boz",
+            "description":"Avropa istehsalı olan Saç üçün zərif qoxulu qoruyucu sprey.Bu məhsulu nəm saçlara tətbiq etməniz daha çox tövsiyə olunur. Məhsulun saçlarınıza hər hansı bir kimyəvi və ya ziyanverici təsiri yoxdur.Hər kəs rahat şəkildə isdifadə edə bilər.Uşaqlara isdifadəsi qadağandır..."
+        },
+        {
+            "id":"7",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p23_f73001de-ca2d-4a07-8554-2cad2a18314f.jpg?v=1535448964",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p21_b206272b-87a5-4f1b-8d66-ce6c9f636356.jpg?v=1535449043",
+            "price":539.00,
+            "title":"Bərpaedici Yağ",
+            "vendor":"Nyka",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Qırılmış,zədələnmiş,yanmış saçlar üçün bu məhsul mükəmməl bir vasitədir.Yağ teksturalı bu məhsulu daha çox saç diblərinə və saç uclarına isdifadə etməniz tövsiyə olunur.Maska şəklində məhsul saçlarda 40 deqiqe vvə ya 1 saat qalmalıdır.Həftə ərzində ən çox iki dəfə isdiafə edə bilərsiniz.Məhsul Avropa istehsalıdır..."
+        },
+        {
+            "id":"8",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p24_a966d30b-dc32-44a9-bdf3-38ea9f42602a.jpg?v=1535448574",
+            "price":329.00,
+            "title":"Düz Saçlar üçün Gel",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bənövşəyi",
+            "description":"Məhsul düz saçlar üçün nəzərdə tutulmuşdur.Gel teksturalıdır.Zərif çiçək qoxusuna sahibdir.Məhsulu saç diblərinizə quru və ya nəm şəkildə isdifadə edə bilərsiniz.Saçları canlanırır və parlaqlıq verir.Məhsul Aprova istehsalıdır.Təbii bitkilədən hazırlanıb..."
+        },
+        {
+            "id":"9",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p16_733d7926-b401-48bd-9a11-b747ecd0243a.jpg?v=1535448457",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "price":329.00,
+            "title":"Quru Saçlar üçün Gel",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Məhsul quru saçlar üçün nəzərdə tutulmuşdur.Gel teksturalıdır.Zərif lavanda qoxusuna sahibdir.Məhsulu saç diblərinizə quru və ya nəm şəkildə isdifadə edə bilərsiniz.Saçları canlanırır və parlaqlıq verir.Məhsul Aprova istehsalıdır.Təbii bitkilədən hazırlanıb..."
+        },
+        {
+            "id":"10",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p14_8fbf250a-cb1f-40e4-8efd-3072ef9ec892.jpg?v=1535444954",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p18_d4f92fb8-981f-473c-97b5-474a1dcb2036.jpg?v=1535444954",
+            "price":730.00,
+            "title":"Zərif Təmizləyici",
+            "vendor":"Cindrella",
+            "type":"Kosmetik",
+            "color":"Boz",
+            "description":"Avropa istehaslı,yağlı dəri tipləri üçün nəzərdə tutulmuş dərin makiaj təmizləyici.Məhsul poraları dərindən təmizləyir,yağlılığı aradan qaldırır və dərinizi təravətləndirir.Tərkibi təbii məhsullardan hazırlanıb.Gün ərzində yalnız bir dəfə isdifadə etməniz tövsiyə olunur.."
+        },
+        {
+            "id":"11",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p15_00eabda7-1d39-4b34-9ade-b7101be72fd4.jpg?v=1535444087",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p12_87b879c8-1d89-4af2-92b4-1f1a24a365ef.jpg?v=1535444087",
+            "price":218.00,
+            "title":"Zərif Təravətləndirici",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Məhsul dəriniz canlandırır,qidalandırır və təravətləndiri.Xoş vanil qoxusuna sahibdir.Gün ərzində bir dəfə isdifadə etməniz tövsiyə olunur.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır... "
+        },
+        {
+            "id":"12",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p9_6295342a-90ca-44a3-8bf6-2478fe2daaf1.jpg?v=1535443478",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p20.jpg?v=1535442830",
+            "title":"Parıltılı Krem",
+            "price":729.00,
+            "vendor":"Mystique",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Məhsul dəriniz canlandırır,qidalandırır və təravətləndiri.Yayda zaqar alarkan da isdifadə edə bilərsiniz.Məhsul yalnız bədən üçündür.Bədədn dərinizə parlaqlıq verir.Xoş vanil qoxusuna sahibdir.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır... "
+        },
+        {
+            "id":"13",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p8_0edc2e8f-9291-4d4d-b660-4a47b14b0924.jpg?v=1535443347",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p9_6295342a-90ca-44a3-8bf6-2478fe2daaf1.jpg?v=1535443478",
+            "price":729.00,
+            "title":"Nəmləndirici Krem",
+            "vendor":"Mystique",
+            "type":"Kosmetik",
+            "color":"Qara",
+            "description":"Məhsul Avropa istehsalıdır.Dərinizi balanslı bir şəkildə mükəmməl nəmləndirir.Dəridə yağlılıq hissi buraxmır.Səhər və axşam isdifadə edə bilərsiniz.Dərinizi eyni zamanda vitaminlərlə qidalanırır,canlı görüntü verir və yorğun üz görüntüsündən xilas olursunuz.Qarışıq dəri tipləri üçün nəzərdə tutulmuşdur..."
+        },
+        {
+            "id":"14",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p11.jpg?v=1535441262",
+            "price":528.00,
+            "title":"BB Krem",
+            "vendor":"Cindrella",
+            "type":"Kosmetik",
+            "color":"Qara",
+            "description":"Məhsul Avropa istehsalıdır.Dərinzi günəş şüalarından və gündən düşən ləkələrdən qoruyur.Müddəti 2 saatdır, yəni 2 saat sonra təsirini itirir və yeniləməlisiniz.Yalnız üz üçün isdifadə oluna bilən məhsuldur.Zaqar alarkən belə isdifadə edə bilərsiniz..."
+        },
+        {
+            "id":"15",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p5_38bd97cc-4892-4985-a631-d4fa1e5c6a64.jpg?v=1535442273",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "price":528.00,
+            "title":"Mükəmməl BB Krem",
+            "vendor":"Liva",
+            "type":"Kosmetik",
+            "color":"Boz",
+            "description":"Məhsul Avropa istehsalıdır.Dərinzi günəş şüalarından və gündən düşən ləkələrdən qoruyur.Müddəti 2 saatdır, yəni 2 saat sonra təsirini itirir və yeniləməlisiniz.Yalnız üz üçün isdifadə oluna bilən məhsuldur.Zaqar alarkən belə isdifadə edə bilərsiniz..."
+        },
+        {
+            "id":"16",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6.jpg?v=1535440326",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p7.jpg?v=1535440317",
+            "price":121.00,
+            "title":"Zəfəran Özlü Üz Geli",
+            "vendor":"Liva",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Məhsul Avropa istehsalıdır. Zəfəran özlüdür və təbii bitkilərdən hazırlanıb. Bu məhsul istənilən dəri tipləri üçün nəzərdə tutulmuşdur. Dəriyə hər hansı bir yan təsiri yoxdur. Dəridən ölmüş hüceyrələri təmizləyir və dərini canlandırır..."
+        },
+        {
+            "id":"17",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p4_6339854e-d428-47b4-902b-1f259f57a0ac.jpg?v=1535441086",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6.jpg?v=1535440326",
+            "price":121.00,
+            "title":"Ağardıcı Gel",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Qara",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Məhsul dəriniz canlandırır,qidalandırır və təravətləndiri.Yayda zaqar alarkan da isdifadə edə bilərsiniz.Məhsul yalnız üz üçündür.Üz dərinizi agardır  və daha da canlı görüntü verir.Xoş vanil qoxusuna sahibdir.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır..."
+        },
+        {
+            "id":"18",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p3_d9d59530-7acb-4918-b0b3-9ed38dc102e6.jpg?v=1535439780",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p1.jpg?v=1535438569",
+            "price":221.00,
+            "title":"Dəri üçün Krem",
+            "vendor":"Nyka",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehaslı,yağlı və qarışıq dəri tipləri üçün nəzərdə tutulmuş dərin nəmləndiricidir.Dəridə yağlılıq hissi buraxmır və dərinizi canlandırır.Tərkibi təbii məhsullardan hazırlanıb.Gün ərzində yalnız bir dəfə isdifadə etməniz tövsiyə olunur.."
+        },
+        {
+            "id":"19",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p22_99f9a51e-f2a2-48fd-bad6-3f93d8e3d806.jpg?v=1535449043",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p21_cedfc838-e2b8-41b8-ad7d-17fdaf967998.jpg?v=1535448964",
+            "price":539.00,
+            "title":"Canlandırıcı Mist",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bənövşəyi",
+            "description":"Avropa istehsalı olan Saç üçün zərif qoxulu qoruyucu sprey.Bu məhsulu nəm saçlara tətbiq etməniz daha çox tövsiyə olunur.Yanmış və ölmüş saçları bərpa edir və canlandırır. Məhsulun saçlarınıza hər hansı bir kimyəvi və ya ziyanverici təsiri yoxdur.Hər kəs rahat şəkildə isdifadə edə bilər.Uşaqlara isdifadəsi qadağandır..."
+        },
+        {
+            "id":"20",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p24_a966d30b-dc32-44a9-bdf3-38ea9f42602a.jpg?v=1535448574",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "price":329.00,
+            "title":"Qoruyucu Mist",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Məhsul Avropa istehsalıdır.Saçlarınız yanmadan, qırılmadan və tökülmədən qoruyur.Saçlara nəm halda tətbiq etməniz daha çox tövsiyə olunur.Bütün saç tipləri üçün nəzərdə tutulmuşdur Uşaqlara isdifadəsi qadağandır..."
+        },
+        {
+            "id":"21",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p13.jpg?v=1535443616",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p12.jpg?v=1535443622",
+            "price":218.00,
+            "title":"Dəri Təmizləyici",
+            "vendor":"Cindrella",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehaslı,yağlı dəri tipləri üçün nəzərdə tutulmuş dərin makiaj təmizləyici.Məhsul poraları dərindən təmizləyir və yağlılığı aradan qaldırır.Tərkibi təbii məhsullardan hazırlanıb.Gün ərzində yalnız bir dəfə isdifadə etməniz tövsiyə olunur..."
+        },
+        {
+            "id":"22",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p20.jpg?v=1535442830",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p9.jpg?v=1535442830",
+            "price":729.00,
+            "title":"Ağardıcı Krem",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Məhsul dəriniz canlandırır,qidalandırır və təravətləndiri.Yayda zaqar alarkan da isdifadə edə bilərsiniz.Məhsul yalnız üz üçündür.Üz dərinizi agardır  və daha da canlı görüntü verir.Xoş vanil qoxusuna sahibdir.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır..."
+        },
+        {
+            "id":"23",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p11.jpg?v=1535441262",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "price":528.00,
+            "title":"Örtücü Baza",
+            "vendor":"Liva",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Yüksək keyfiyyətli örtücülüyə malikdir və dərinizi zərərli maddələrdən qoruyur.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır... "
+        },
+        {
+            "id":"24",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p7.jpg?v=1535440317",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6.jpg?v=1535440326",
+            "price":121.00,
+            "title":"Təbii Aloe",
+            "vendor":"Liva",
+            "type":"Kosmetik",
+            "color":"Boz",
+            "description":"Məhsul Avropa istehsalıdır. Aloe tərkiblidir və təbii bitkilərdən hazırlanıb. Bu məhsul istənilən dəri tipləri üçün nəzərdə tutulmuşdur. Dəriyə hər hansı bir yan təsiri yoxdur. Dəridən ölmüş hüceyrələri təmizləyir və dərini canlandırır.."
+        },
+        {
+            "id":"25",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p2.jpg?v=1535438562",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p1.jpg?v=1535438569",
+            "price":221.00,
+            "title":"Ötücü Maye",
+            "vendor":"Mystique",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Yüksək keyfiyyətli örtücülüyə malikdir və dərinizi zərərli maddələrdən qoruyur.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır..."
+        },
+        {
+            "id":"26",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p24.jpg?v=1535445415",
+            "price": 329.00,
+            "prevPrice":600.00,
+            "title":"Düz Saçlar üçün Gel",
+            "vendor":"Mystique",
+            "type":"Kosmetik",
+            "color":"Bənövşəyi",
+            "description":"Məhsul düz saçlar üçün nəzərdə tutulmuşdur.Gel teksturalıdır.Zərif çiçək qoxusuna sahibdir.Məhsulu saç diblərinizə quru və ya nəm şəkildə isdifadə edə bilərsiniz.Saçları canlanırır və parlaqlıq verir.Məhsul Aprova istehsalıdır.Təbii bitkilədən hazırlanıb..."
+        },
+        {
+            "id":"27",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p8_0edc2e8f-9291-4d4d-b660-4a47b14b0924.jpg?v=1535443347",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p9_6295342a-90ca-44a3-8bf6-2478fe2daaf1.jpg?v=1535443478",
+            "price": 729.00,
+            "prevPrice":800.00,
+            "title":"Nəmləndirici Krem",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Qara",
+            "description":"Məhsul Avropa istehsalıdır.Dərinizi balanslı bir şəkildə mükəmməl nəmləndirir.Dəridə yağlılıq hissi buraxmır.Səhər və axşam isdifadə edə bilərsiniz.Dərinizi eyni zamanda vitaminlərlə qidalanırır,canlı görüntü verir və yorğun üz görüntüsündən xilas olursunuz.Qarışıq dəri tipləri üçün nəzərdə tutulmuşdur..."
+        },
+        {
+            "id":"28",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p5_38bd97cc-4892-4985-a631-d4fa1e5c6a64.jpg?v=1535442273",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p10.jpg?v=1535441267",
+            "price": 528.00,
+            "title":"Mükəmməl BB Krem",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Məhsul Avropa istehsalıdır.Dərinzi günəş şüalarından və gündən düşən ləkələrdən qoruyur.Müddəti 2 saatdır, yəni 2 saat sonra təsirini itirir və yeniləməlisiniz.Yalnız üz üçün isdifadə oluna bilən məhsuldur.Zaqar alarkən belə isdifadə edə bilərsiniz..."
+        },
+        {
+            "id":"29",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6_88f441ad-4352-4583-8210-d0e186c0292d.jpg?v=1535441086",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p7_2fa6a20b-2027-4761-9f38-f3fd4f2effa9.jpg?v=1535441114",
+            "price": 121.00,
+            "prevPrice":295.00,
+            "title":"Zəfəran Özlü Üz Geli",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Qara",
+            "description":"Məhsul Avropa istehsalıdır. Zəfəran özlüdür və təbii bitkilərdən hazırlanıb. Bu məhsul istənilən dəri tipləri üçün nəzərdə tutulmuşdur. Dəriyə hər hansı bir yan təsiri yoxdur. Dəridən ölmüş hüceyrələri təmizləyir və dərini canlandırır.."
+        },
+        {
+            "id":"30",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p4_6339854e-d428-47b4-902b-1f259f57a0ac.jpg?v=1535441086",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p6_88f441ad-4352-4583-8210-d0e186c0292d.jpg?v=1535441086",
+            "price": 121.00,
+            "prevPrice":300.00,
+            "title":"Ağardıcı Gel",
+            "vendor":"Cindrella",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Məhsul dəriniz canlandırır,qidalandırır və təravətləndiri.Yayda zaqar alarkan da isdifadə edə bilərsiniz.Məhsul yalnız üz üçündür.Üz dərinizi agardır  və daha da canlı görüntü verir.Xoş vanil qoxusuna sahibdir.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır..."
+        },
+        {
+            "id":"31",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p13.jpg?v=1535443616",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p12.jpg?v=1535443622",
+            "price": 218.00,
+            "title":"Dəri Təmizləyici",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehaslı,yağlı dəri tipləri üçün nəzərdə tutulmuş dərin makiaj təmizləyici.Məhsul poraları dərindən təmizləyir və yağlılığı aradan qaldırır.Tərkibi təbii məhsullardan hazırlanıb.Gün ərzində yalnız bir dəfə isdifadə etməniz tövsiyə olunur..."
+        },
+        {
+            "id":"32",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p24.jpg?v=1535445415",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p17_9d5902e3-3c9c-4a47-8fa4-203ff021383f.jpg?v=1535448457",
+            "price": 329.00,
+            "title":"Qoruyucu Mist",
+            "vendor":"Laura",
+            "type":"Kosmetik",
+            "color":"Bənövşəyi",
+            "description":"Məhsul Avropa istehsalıdır.Saçlarınız yanmadan, qırılmadan və tökülmədən qoruyur.Saçlara nəm halda tətbiq etməniz daha çox tövsiyə olunur.Bütün saç tipləri üçün nəzərdə tutulmuşdur Uşaqlara isdifadəsi qadağandır..."
+        },
+        {
+            "id":"33",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p2.jpg?v=1535438562",
+            "hovimg":"https://cdn.shopify.com/s/files/1/0014/5673/4311/products/p1_f03e6de5-d395-4f09-8afd-1bcb29af6485.jpg?v=1535440219",
+            "price": 221.00,
+            "title":"Örtücü Maye",
+            "vendor":"Liva",
+            "type":"Kosmetik",
+            "color":"Bəyaz",
+            "description":"Avropa istehsalı olan bu məhsul bütün dəri tipləri üçün nəzərdə tutlmuşdur.Yüksək keyfiyyətli örtücülüyə malikdir və dərinizi zərərli maddələrdən qoruyur.Tərkibində hər hansı bir kimyəvi məhsullardan isdifadə olunmamışdır... "
+        },
+        {
+            "id":"34",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/img-6-1_600x.jpg?v=1613525859"       
+        },
+        {
+            "id":"35",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/img-7-1_600x.jpg?v=1613525859"       
+        },
+        {
+            "id":"36",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-12.jpg?v=1535436991",
+            "title":"Ən Yaxşı Vizaj Üsulları",
+            "descriptionFirst":"Ruis curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. ",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"37",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-11.jpg?v=1535436309",
+            "title":"Parlaq Dəri üçün Vizaj",
+            "descriptionFirst":"Pris sed aliquam nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed posuere ac mattis non nunc.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"38",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-10.jpg?v=1535436233",
+            "title":"Kölgə Gözəl Görüntü Verir",
+            "descriptionFirst":"Cames cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"39",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-9_470x.jpg?v=1535436167",
+            "title":"Tonal Krem",
+            "descriptionFirst":"Tedes yum deriis juyoque gytatibus ot hytnis ous iouturient montes, tyucetur ridiculus mus. Donec quam felis, ultri cies nec, pelle ntes quer tuii oeurt yuiop retiu mrtyu ghfrty quis, sem. Nulla consequat massa quis enim.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"40",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-8.jpg?v=1535436070",
+            "title":"Premium Keyfiyyətli Fırça",
+            "descriptionFirst":"Hnis nullam sagittis. Suspendisse pul vinar augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"41",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-7.jpg?v=1535435957",
+            "title":"Yüksək Keyfiyyətli Fırça",
+            "descriptionFirst":"Nbis curabitur ullam ultr nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"42",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-6.jpg?v=1535435912",
+            "title":"Kompakt Pudra Makiajı",
+            "descriptionFirst":"Fames aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. ",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"43",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-5.jpg?v=1535435837",
+            "title":"Rəngli Göz Kölgələri",
+            "descriptionFirst":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"44",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-4.jpg?v=1535435806",
+            "title":"Kölgələr üçün Kolleksiya",
+            "descriptionFirst":"Muis sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"45",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-1.jpg?v=1535435361",
+            "title":"Axtarılan Örtücülər",
+            "descriptionFirst":"Ruis curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. ",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"46",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-2.jpg?v=1535435479",
+            "title":"izaj Fırça Dəsti",
+            "descriptionFirst":"Pris sed aliquam nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed posuere ac mattis non nunc. ",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"47",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/articles/blog-3.jpg?v=1535435580",
+            "title":"Compact Powder Brush",
+            "descriptionFirst":"Aouvida In oiupis. Weklentesque pos qweesent wnipis. ferean posuere, sretor htd dersus dregiat vgrc aweue juyndit loic eu sollicitudin urna dolor sagittis lacus. Donec elit libero sodales nec, volutpat a suscipit non.",
+            "descriptionSecond":"Ridiculus mus mauris vitae ultricies leo. Non enim praesent elementum facilisis leo vel fringilla. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada.",
+            "descriptionThird":"Sapien faucibus et molestie ac feugiat sed lectus. Sit amet consectetur adipiscing elit. Sed cras ornare arcu dui vivamus arcu felis. A scelerisque purus semper eget duis at tellus at urna. Vitae congue mauris rhoncus aenean vel elit. Sapien faucibus et molestie ac feugiat. ",
+            "descriptionForth":"Id semper risus in hendrerit gravida rutrum quisque non tellus. Sed lectus vestibulum mattis ullamcorper. Amet venenatis urna cursus eget nunc. Eu augue ut lectus arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet venenatis urna cursus eget nunc.",
+            "descriptionFifth":"Massa vitae tortor condimentum lacinia quis vel eros donec ac. Enim ut tellus elementum sagittis vitae. Massa sapien faucibus et molestie ac feugiat. Tincidunt ornare massa eget egestas purus viverra accumsan. Metus aliquam eleifend mi in nulla posuere."
+        },
+        {
+            "id":"48",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/abo-06_800x.jpg?v=1632384204",
+            "title":"JAIMA RAMSEY",
+            "description":"MENECER"
+        },
+        {
+            "id":"49",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/abo-05_800x.jpg?v=1632384229",
+            "title":"JESSICA RAMOS",
+            "description":"İNSAN RESURSLARI"
+        },
+        {
+            "id":"50",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/abo-04_800x.jpg?v=1632384246",
+            "title":"JENNIE GLOWER",
+            "description":"WEB DİZAYNER"
+        },
+        {
+            "id":"51",
+            "image":"https://cdn.shopify.com/s/files/1/0014/5673/4311/files/abo-07_800x.jpg?v=1632384281",
+            "title":"EBONY PITTMAN",
+            "description":"PROYEKT MENECERİ"
+        }
+    ]
+}

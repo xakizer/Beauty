@@ -1,0 +1,137 @@
+.main{
+    .addToCart{
+        background: linear-gradient(to top, rgb(14, 13, 13),rgb(24, 23, 23),rgb(27, 27, 27) ,transparent);
+        .container{
+            .row{
+                div{
+                    .card{
+                        background-color: transparent;
+                        border-color: transparent;
+                        img{
+                            position: relative;
+                        }
+                        .card-body{
+                            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+                            justify-content: center;
+                            h5{
+                                font-size: 25px;
+                                font-weight: bold;
+                                color: white;
+                                font-family:  Friedrich Althausen;
+                                font-style: italic;
+                                font-weight: bolder;
+                                transition: .5s;
+                                cursor: pointer;
+                                &:hover{
+                                    color: #b367d0;
+                                }
+                                @media screen and (max-width:995px){
+                                    font-size: 20px;
+                                }
+                                @media screen and (max-width:588px){
+                                    font-size: 25px;
+                                }
+                            }
+                            p{
+                                font-size: 25px;
+                                color: white;
+                                font-family:  Friedrich Althausen;
+                                transition: .5s;
+                                cursor: pointer;
+                                &:hover{
+                                    color: #b367d0;
+                                }
+                            }
+                            .quantity{
+                                button{
+                                    background-color: rgb(14,13,13);
+                                    border-color: none;
+                                    color:white;
+                                    font-size: 20px;
+                                    font-family:  Friedrich Althausen;
+                                    transition: .5s;                         
+                                    &:hover{
+                                        background: linear-gradient(to right, purple , transparent);
+                                    }
+                                }
+                                span{
+                                    font-size: 23px;
+                                    color: white;
+                                    font-family:  Friedrich Althausen;
+                                }
+                            }
+                        }
+                        .removeBtn{
+                            position: absolute;
+                            top: 0;
+                            right: 0;
+                            color: white;
+                            font-size: 20px;
+                            transition: .5s;
+                            &:hover{
+                                color: red;
+                            }
+                        }
+                        .wishBtn{
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            color: white;
+                            font-size: 20px;
+                            transition: .5s;
+                            &:hover{
+                                color: #b367d0;
+                            }
+                        }
+                    }
+                }
+            }
+            .totalPriceAndBtn{
+                p{
+                    color: white;
+                    font-family: FONDSAU;
+                    font-size: 30px;
+                }
+                .buybtn{
+                    background-color: rgb(65, 61, 61);
+                    color: white;
+                    border: none;
+                    font-family: Friedrich Althausen;
+                    font-weight: bolder;
+                    font-size: 20px;
+                    transition: .5s;
+                    &:hover{
+                        background-color: #b367d0;
+                    }
+                }
+            }
+        }
+    }
+}
+.modal{
+    --bs-modal-bg: #1d1c1c;
+    --bs-modal-footer-border-width: 0px;
+    .modal-dialog{
+        --bs-modal-bg: #1d1c1c;
+        .modal-content{
+            border-radius:0;
+            background-color: var(--bs-modal-bg);
+            .modal-body{
+                color: white;
+                i{
+                    color:rgb(36, 121, 36);
+                    font-weight: bolder;
+                }
+            }
+            .modal-footer{
+                .btn{
+                    background-color: rgb(36, 121, 36);
+                    border-radius:0;
+                    border-color: rgb(36, 121, 36);
+                }
+            }
+        }
+    }
+}

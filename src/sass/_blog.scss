@@ -1,0 +1,396 @@
+.blogPage{
+    // FIRST SECTION START
+    .main{
+        .first{
+            padding: 40px 0px;
+            .container{
+                background-color: rgb(37, 35, 35);
+                .d-flex{
+                    height: 30vh;
+                    h4{
+                        font-family:  Friedrich Althausen;
+                        letter-spacing: 2px;
+                        font-size: 25px;
+                        color: white;
+                    }
+                    div{
+                        :nth-child(1){
+                            transition: .5s;
+                                    cursor: pointer;
+                                    color: white;
+                                    &:hover{
+                                        color: purple;
+                                    }
+                        }
+                        :last-child{
+                            cursor: pointer;
+                            color: white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // FIRST SECTION END
+
+    // NEWS SECTION START
+    .main{
+        .news{
+            background-image: linear-gradient(to top, rgb(14, 13, 13),rgb(27, 25, 25) ,transparent);
+            padding-bottom: 5%;
+            position: relative;
+            .container{
+                .row{
+                    .offCanvas{
+                        display: none;
+                        @media screen and (max-width:990px){
+                            display: block;
+                        }
+                        .btn{
+                            border: 1px solid black;
+                            background-color: black;
+                            color: white;
+                            padding: 10px 15px;
+                            border-radius: 0;
+                            position: absolute;
+                            left: 0;
+                        }
+                       .offcanvas{
+                        background-color: rgb(14, 13, 13);
+                        .offcanvas-header{
+                            .btn-close{
+                                background-color: white;
+                            }
+                        }
+                            .offcanvas-body{
+                                .col-12{
+                                    .recent{
+                                        h5{
+                                            color: rgb(114, 14, 114);
+                                            font-family: Friedrich Althausen;
+                                            font-weight: bold;
+                                            font-size: 20px;
+                                            margin-top: 50px;
+                                            padding: 10px;
+                                            background-color: rgb(37, 35, 35);
+                                        }
+                                        .row{
+                                            padding-bottom: 20px;
+
+                                               .blogImg{
+                                                   width: 40%;
+                                                   img{
+                                                       width: 100%;
+                                                       height: 13vh;
+                                                       object-fit: cover;
+                                                }
+                                               }
+                                           .recentBody{
+                                            width: 60%;
+                                            h6{
+                                                color: white;
+                                                font-family: Friedrich Althausen;
+                                                font-size: 20px;
+                                            }
+                                            p{
+                                                font-family: sans-serif;
+                                                font-size: 15px;
+                                                color: white;
+                                            }
+                                           }
+                                        }
+                                    }
+                                    .tags{
+                                        h5{
+                                            color: rgb(114, 14, 114);
+                                                font-family: Friedrich Althausen;
+                                                font-weight: bold;
+                                                font-size: 20px;
+                                                margin-top: 60px;
+                                                padding: 10px;
+                                                background-color: rgb(37, 35, 35);
+                                        }
+                                        p{
+                                            list-style: none;
+                                            line-height: 18px;
+                                            font-family: Friedrich Althausen;
+                                            font-size: 17px;
+                                            color: white;
+                                            font-weight: bold;
+                                            cursor: pointer;
+                                        }
+                                    }
+                                    .bestSeller{
+                                        h5{
+                                            color: rgb(114, 14, 114);
+                                            font-family: Friedrich Althausen;
+                                            font-weight: bold;
+                                            font-size: 20px;
+                                            margin-top: 50px;
+                                            padding: 10px;
+                                            background-color: rgb(37, 35, 35);
+                                        }
+                                        .row{
+                                            padding-bottom: 20px;
+                                            .bSellerImg{
+                                                width: 25%;
+                                                img{
+                                                    width: 100%;
+                                                    height: 13vh;
+                                                    object-fit: contain;
+                                            }
+                                            }
+                                            .bsBody{
+                                                width: 75%;
+                                                h6{
+                                                    color: white;
+                                                    font-family: Friedrich Althausen;
+                                                    font-size: 19px;
+                                                    transition: .5s;
+                                                    cursor: pointer;
+                                                    &:hover{
+                                                        color: #b367d0;
+                                                    }
+                                                }
+                                                p{
+                                                    font-family: sans-serif;
+                                                    font-size: 14px;
+                                                    color: white;
+                                                    transition: .5s;
+                                                    cursor: pointer;
+                                                    &:hover{
+                                                        color: #b367d0;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                       }
+                    }
+
+                    
+                  .canvasBody{
+                    @media screen and (max-width:990px){
+                        display: none;
+                    }
+                    .recent{
+                        h5{
+                            color: rgb(114, 14, 114);
+                            font-family: Friedrich Althausen;
+                            font-weight: bold;
+                            font-size: 20px;
+                            margin-top: 50px;
+                            padding: 10px;
+                            background-color: rgb(37, 35, 35);
+                        }
+                        .row{
+                            padding-bottom: 20px;
+                               .blogImg{
+                                   width: 40%;
+                                   img{
+                                       width: 100%;
+                                       height: 13vh;
+                                       object-fit: cover;
+                                }
+                               }
+                           .recentBody{
+                            h6{
+                                color: white;
+                                font-family: Friedrich Althausen;
+                                font-size: 19px;
+                                @media screen and (max-width:990px) {
+                                    margin-top: 10px;
+                                }
+                            }
+                            p{
+                                font-family: sans-serif;
+                                font-size: 14px;
+                                color: white;
+                            }
+                           }
+                        }
+                    }
+                    .tags{
+                        h5{
+                            color: rgb(114, 14, 114);
+                                font-family: Friedrich Althausen;
+                                font-weight: bold;
+                                font-size: 20px;
+                                margin-top: 60px;
+                                padding: 10px;
+                                background-color: rgb(37, 35, 35);
+                        }
+                        p{
+                            list-style: none;
+                            line-height: 18px;
+                            font-family: Friedrich Althausen;
+                            font-size: 17px;
+                            color: white;
+                            font-weight: bold;
+                            cursor: pointer;
+                        }
+                    }
+                    .bestSeller{
+                        h5{
+                            color: rgb(114, 14, 114);
+                            font-family: Friedrich Althausen;
+                            font-weight: bold;
+                            font-size: 20px;
+                            margin-top: 50px;
+                            padding: 10px;
+                            background-color: rgb(37, 35, 35);
+                        }
+                        .row{
+                            padding-bottom: 20px;
+                            .bSellerImg{
+                                width: 25%;
+                                img{
+                                    width: 100%;
+                                    height: 13vh;
+                                    object-fit: contain;
+                            }            
+                            }
+                            .bsBody{
+                                width: 75%;
+                                @media screen and (max-width:990px) {
+                                    width: 70%;
+                                 }
+                                h6{
+                                    color: white;
+                                    font-family: Friedrich Althausen;
+                                    font-size: 19px;
+                                    transition: .5s;
+                                    cursor: pointer;
+                                    &:hover{
+                                        color: #b367d0;
+                                    }
+                                }
+                                p{
+                                    font-family: sans-serif;
+                                    font-size: 14px;
+                                    color: white;
+                                    transition: .5s;
+                                    cursor: pointer;
+                                    &:hover{
+                                        color: #b367d0;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                  }
+
+                    
+                    .infoCards{
+                        @media screen and (max-width:990px) {
+                            width:100%;
+                        }
+                        .row{
+                            div{
+                                .card{
+                                    border: none;
+                                    background-color: rgb(34, 32, 32);
+                                    .card-body{
+                                        h5{
+                                            color: white;
+                                            font-family:  FONTDASU;
+                                            font-style: italic;
+                                            font-size: 25px;
+                                            @media screen and (max-width:990px) {
+                                                font-size: 17px;
+                                             }
+                                            @media screen and (max-width:765px) {
+                                                font-size: 25px;
+                                             }
+                                            @media screen and (max-width:300px) {
+                                                font-size: 20px;
+                                             }
+                                        }
+                                        .icons{
+                                            color: white;
+                                            .iconUser{
+                                                i{
+                                                    border: 1px solid #b367d0;
+                                                    color: #b367d0;
+                                                    font-size: 17px;
+                                                    border-radius: 50%;
+                                                    padding: 1.1%;
+                                                    @media screen and (max-width:990px) {
+                                                        font-size: 10px;
+                                                     }
+                                                    @media screen and (max-width:765px) {
+                                                        font-size: 17px;
+                                                     }
+                                                     @media screen and (max-width:300px) {
+                                                        font-size: 10px;
+                                                     }
+                                                }
+                                            }
+                                            .iconCalendar{
+                                                i{
+                                                    color: #b367d0;
+                                                    font-size: 17px;
+                                                    @media screen and (max-width:990px) {
+                                                        font-size: 10px;
+                                                    }
+                                                    @media screen and (max-width:765px) {
+                                                        font-size: 17px;
+                                                    }
+                                                    @media screen and (max-width:300px) {
+                                                        font-size: 12px;
+                                                     }
+                                                }
+                                            }
+                                        }
+                                        .card-text{
+                                            color: white;
+                                            font-size: 18px;
+                                            font-family: Para Type;
+                                            @media screen and (max-width:993px) {
+                                                font-size: 12px;
+                                            }
+                                            @media screen and (max-width:765px) {
+                                                font-size: 18px;
+                                            }
+                                            @media screen and (max-width:300px) {
+                                                font-size: 13px;
+                                             }
+                                        }
+                                        button{
+                                            background-color: rgb(22, 20, 20);
+                                            color: white;
+                                            padding: 10px 15px;
+                                            transition: .5s;
+                                            @media screen and (max-width:990px) {
+                                                padding: 7px 12px;
+                                             }
+                                            @media screen and (max-width:765px) {
+                                                padding: 10px 15px;
+                                             }
+                                            @media screen and (max-width:765px) {
+                                                padding: 7px 12px;
+                                             }
+                                            
+                                           i{
+                                            transition: .5s;
+                                           }
+                                            &:hover{
+                                                background: linear-gradient(to right, purple , transparent);
+                                                i{
+                                                    transform: translateX(10px);
+                                                }
+                                            }
+                                        }
+                                        }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // NEWS SECTION END
+}

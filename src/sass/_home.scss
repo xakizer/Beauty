@@ -1,0 +1,2470 @@
+// HERO SECTION START
+.main{
+    .container{
+        .carousel{
+            .carousel-inner{
+                padding-bottom: 30px;
+                .firstimg{
+                    position: relative;
+                        .firstText{
+                            position: absolute;
+                            top: 20%;
+                            left: 8%;
+                            span{
+                                color: white;
+                                font-family:  FONTDASU;
+                                font-style: italic;
+                                font-size: 30px;
+                            }
+                            h3{
+                                color: white;
+                                font-family: FONTDASU;
+                                font-size: 50px;
+                                font-weight: bolder;
+                            }
+                            p{
+                                color: white;
+                                font-family: sans-serif;
+                                font-size: 16px;
+                                line-height: 30px;
+                                margin-top: 6%;
+                                font-weight: bold;
+                            }
+                            button{
+                                width: 200px;
+                                height: 70px;
+                                margin-top: 10%;
+                                border: 1px solid white;
+                                color: white;
+                                background-color: transparent;
+                            }
+                        }
+                    }
+                    // First slide media start
+                    @media screen and (max-width: 1233px) {
+                        .firstimg{ 
+                            position: relative;
+                            .firstText{
+                                position: absolute;
+                                top: 20%;
+                                span{
+                                    font-size: 27px;
+                                }
+                                h3{
+                                    font-size: 47px;
+                                }
+                                p{
+                                    margin-top: 4%;
+                                }
+                                button{
+                                    margin-top: 5%;
+                                    width: 190px;
+                                    height: 60px;
+                                }
+                            }
+                        }
+                    }
+                    @media screen and (max-width: 990px) {
+                        .firstimg{ 
+                            position: relative;
+                            .firstText{
+                                position: absolute;
+                                top: 20%;
+                                span{
+                                    font-size: 20px;
+                                }
+                                h3{
+                                    font-size: 25px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    font-size: 13px;
+                                    line-height: 18px;
+                                    margin-top: 0;
+                                    
+                                }
+                                button{
+                                    margin-top: 0;
+                                    width: 170px;
+                                    height: 50px;
+                                }
+                            }
+                        }
+                    }
+                    @media screen and (max-width: 764px) {
+                        .firstimg{ 
+                            position: relative;
+                            .firstText{
+                                position: absolute;
+                                top: 20%;
+                                span{
+                                    font-size: 16px;
+                                }
+                                h3{
+                                    font-size: 23px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    font-size: 10px;
+                                    // line-height: 15px;
+                                    margin-top: 0;
+                                    
+                                }
+                                button{
+                                    margin-top: 2%;
+                                    width: 130px;
+                                    height: 30px;
+                                    font-size: 12px;
+                                }
+                            }
+                        }
+                    }
+                    @media screen and (max-width: 540px) {
+                        .firstimg{ 
+                            position: relative;
+                            img{
+                                height: 27vh;
+                                object-fit: cover;
+                            }
+                            .firstText{
+                                position: absolute;
+                                top: 20%;
+                                span{
+                                    font-size: 15px;
+                                }
+                                h3{
+                                    font-size: 20px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    font-size: 9px;
+                                    // line-height: 15px;
+                                    margin-top: 0;
+                                    
+                                }
+                                button{
+                                    margin-top: 0;
+                                    width: 130px;
+                                    height: 35px;
+                                    font-size: 12px;
+                                }
+                            }
+                        }
+                    }
+                    @media screen and (max-width: 375px) {
+                        .firstimg{ 
+                            position: relative;
+                            img{
+                                height: 27vh;
+                                object-fit: cover;
+                            }
+                            .firstText{
+                                position: absolute;
+                                top: 10%;
+                                span{
+                                    font-size: 15px;
+                                }
+                                h3{
+                                    font-size: 20px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    font-size: 7px;
+                                    // line-height: 15px;
+                                    margin-top: 0;
+                                    
+                                }
+                                button{
+                                    margin-top: 0;
+                                    width: 130px;
+                                    height: 35px;
+                                    font-size: 12px;
+                                }
+                            }
+                        }
+                    }
+                    @media screen and (max-width: 300px) {
+                        .firstimg{ 
+                            position: relative;
+                            img{
+                                height: 27vh;
+                                object-fit: cover;
+                            }
+                            .firstText{
+                                position: absolute;
+                                top: 20%;
+                                span{
+                                    font-size: 12px;
+                                }
+                                h3{
+                                    font-size: 13px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    font-size: 6px;
+                                    // line-height: 15px;
+                                    margin-top: 0;
+                                    
+                                }
+                                button{
+                                    margin-top: 0;
+                                    width: 100px;
+                                    height: 30px;
+                                    font-size: 10px;
+                                }
+                            }
+                        }
+                    }
+                    // First slide media end
+                    .secondimg{
+                        position: relative;
+                        .secondText{
+                            position: absolute;
+                            top: 20%;
+                            right: 8%;
+                            text-align: end;
+                            span{
+                                color: white;
+                                font-family:  FONTDASU;
+                                font-style: italic;
+                                font-size: 30px;
+                            }
+                            h3{
+                                color: white;
+                                font-family: FONTDASU;
+                                font-size: 50px;
+                                font-weight: bolder;
+                            }
+                            p{
+                                color: white;
+                                font-family: sans-serif;
+                                font-size: 16px;
+                                line-height: 30px;
+                                margin-top: 6%;
+                                font-weight: bold;
+                            }
+                            button{
+                                width: 200px;
+                                height: 70px;
+                                // margin-top: 40px;
+                                margin-top: 10%;
+                                border: 1px solid white;
+                                color: white;
+                                background-color: transparent;
+                            }
+                        }
+                                           
+                    }
+                       //   Second slide media start
+                    @media  screen and (max-width:1200px) {
+                         .secondimg{
+                          position: relative;
+                          .secondText{
+                              position: absolute;
+                              top: 20%;
+                              span{
+                                  font-size: 27px;
+                              }
+                              h3{
+                                  color: white;
+                                  font-family: FONTDASU;
+                                  font-size: 47px;
+                              }
+                              p{
+                                  margin-top: 4%;
+                              }
+                              button{
+                                  width: 190px;
+                                  height: 70px;
+                                  margin-top: 6%;
+                              }
+                          }
+                         }
+                      }
+                    @media  screen and (max-width:1193px) {
+                         .secondimg{
+                          position: relative;
+                          .secondText{
+                              position: absolute;
+                              top: 20%;
+                              span{
+                                  font-size: 20px;
+                              }
+                              h3{
+                                  color: white;
+                                  font-family: FONTDASU;
+                                  font-size: 40px;
+                              }
+                              p{
+                                  margin-top: 4%;
+                                  font-size: 13px;
+                              }
+                              button{
+                                margin-top: 5%;
+                                width: 190px;
+                                height: 60px;
+                            }
+                          }
+                         }
+                      }
+                    @media  screen and (max-width:989px) {
+                         .secondimg{
+                          position: relative;
+                          .secondText{
+                              position: absolute;
+                              top: 20%;
+                              span{
+                                  font-size: 16px;
+                              }
+                              h3{
+                                  color: white;
+                                  font-family: FONTDASU;
+                                  font-size: 23px;
+                              }
+                              p{
+                                  margin-top: 4%;
+                                  line-height: 18px;
+                                  font-size: 10px;
+                              }
+                              button{
+                                margin-top: 3%;
+                                width: 170px;
+                                height: 50px;
+                              }
+                          }
+                         }
+                      }
+                    @media  screen and (max-width:769px) {
+                         .secondimg{
+                          position: relative;
+                          .secondText{
+                              position: absolute;
+                              top: 20%;
+                              span{
+                                  font-size: 13px;
+                              }
+                              h3{
+                                  color: white;
+                                  font-family: FONTDASU;
+                                  font-size: 25px;
+                              }
+                              p{
+                                  margin-top: 4%;
+                                  line-height: 10px;
+                                  font-size: 10px;
+                              }
+                              button{
+                                margin-top: 0;
+                                width: 170px;
+                                height: 50px;
+                            }
+                          }
+                         }
+                      }
+                    @media  screen and (max-width:540px) {
+                         .secondimg{
+                          position: relative;
+                          img{
+                            height: 27vh;
+                            object-fit: cover;
+                          }
+                          .secondText{
+                              position: absolute;
+                              top: 20%;
+                              span{
+                                  font-size: 16px;
+                              }
+                              h3{
+                                  color: white;
+                                  font-family: FONTDASU;
+                                  font-size: 20px;
+                              }
+                              p{
+                                  margin-top: 4%;
+                                  line-height: 13px;
+                                  font-size: 10px;
+                              }
+                              button{
+                                  width: 130px;
+                                  height: 35px;
+                                  margin-top: 2%;
+                                  font-size: 12px;
+                              }
+                          }
+                         }
+                      }
+                    @media  screen and (max-width:375px) {
+                         .secondimg{
+                          position: relative;
+                          img{
+                            height: 27vh;
+                            object-fit: cover;
+                          }
+                          .secondText{
+                              position: absolute;
+                              top: 10%;
+                              span{
+                                  font-size: 16px;
+                              }
+                              h3{
+                                  color: white;
+                                  font-family: FONTDASU;
+                                  font-size: 20px;
+                              }
+                              p{
+                                  margin-top: 4%;
+                                  line-height: 13px;
+                                  font-size: 7px;
+                              }
+                              button{
+                                  width: 130px;
+                                  height: 35px;
+                                  margin-top: 2%;
+                                  font-size: 12px;
+                              }
+                          }
+                         }
+                      }
+                      @media screen and (max-width: 300px) {
+                        .secondimg{ 
+                            position: relative;
+                            img{
+                                height: 27vh;
+                                object-fit: cover;
+                            }
+                            .secondText{
+                                position: absolute;
+                                top: 20%;
+                                span{
+                                    font-size: 12px;
+                                }
+                                h3{
+                                    font-size: 13px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    font-size: 6px;
+                                    // line-height: 15px;
+                                    margin-top: 0;
+                                    
+                                }
+                                button{
+                                    margin-top: 0;
+                                    width: 100px;
+                                    height: 30px;
+                                    font-size: 10px;
+                                }
+                            }
+                        }
+                    }
+                      //  Second slide media end
+                    .thirdimg{
+                        position: relative;
+                        .thirdText{
+                            position: absolute;
+                            top: 20%;
+                            left: 8%;
+                            span{
+                                color: white;
+                                font-family:  FONTDASU;
+                                font-style: italic;
+                                font-size: 30px;
+                            }
+                            h3{
+                                color: white;
+                                font-family: FONTDASU;
+                                font-size: 50px;
+                                font-weight: bolder;
+                            }
+                            p{
+                                color: white;
+                                font-family: sans-serif;
+                                font-size: 16px;
+                                line-height: 30px;
+                                margin-top: 9%;
+                                font-weight: bold;
+                            }
+                            button{
+                                width: 200px;
+                                height: 70px;
+                                margin-top: 5%;
+                                border: 1px solid white;
+                                color: white;
+                                background-color: transparent;
+                            }
+                        }
+                    }
+                    // Third slide media start
+                    @media screen and (max-width:1228px) {
+                        .thirdimg{
+                            position: relative;
+                            .thirdText{
+                                position: absolute;
+                                span{
+                                    font-size: 27px;
+                                }
+                                h3{
+                                    font-size: 47px;
+                                }
+                                p{
+                                    margin-top: 4%;
+                                }
+                                button{
+                                    margin-top: 5%;
+                                    width: 190px;
+                                    height: 60px;
+                                }
+                            }
+                        }
+                    }
+                    @media screen and (max-width:993px) {
+                        .thirdimg{
+                            position: relative;
+                            .thirdText{
+                                position: absolute;
+                                span{
+                                    font-size: 20px;
+                                }
+                                h3{
+                                    font-size: 25px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    margin-top: 3%;
+                                    line-height: 18px;
+                                    font-size: 10px;
+                                }
+                                button{
+                                    width: 190px;
+                                    height: 55px;
+                                    margin-top: 3%;
+                                }
+                            }
+                        }
+                    }
+                    @media screen and (max-width:769px) {
+                        .thirdimg{
+                            position: relative;
+                            .thirdText{
+                                position: absolute;
+                                span{
+                                    font-size: 15px;
+                                }
+                                h3{
+                                    font-size: 20px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    margin-top: 3%;
+                                    line-height: 10px;
+                                    font-size: 10px;
+                                }
+                                button{
+                                    margin-top: 0;
+                                    width: 170px;
+                                    height: 50px;
+                                }
+                            }
+                        }
+                    }
+                    @media  screen and (max-width:540px) {
+                        .thirdimg{
+                         position: relative;
+                         img{
+                           height: 27vh;
+                           object-fit: cover;
+                         }
+                         .thirdText{
+                             position: absolute;
+                             top: 20%;
+                             span{
+                                 font-size: 16px;
+                             }
+                             h3{
+                                 color: white;
+                                 font-family: FONTDASU;
+                                 font-size: 20px;
+                             }
+                             p{
+                                 margin-top: 4%;
+                                 line-height: 13px;
+                                 font-size: 10px;
+                             }
+                             button{
+                                 width: 130px;
+                                 height: 35px;
+                                 margin-top: 2%;
+                                 font-size: 12px;
+                             }
+                         }
+                        }
+                     }
+                    @media  screen and (max-width:375px) {
+                        .thirdimg{
+                         position: relative;
+                         img{
+                           height: 27vh;
+                           object-fit: cover;
+                         }
+                         .thirdText{
+                             position: absolute;
+                             top: 10%;
+                             span{
+                                 font-size: 16px;
+                             }
+                             h3{
+                                 color: white;
+                                 font-family: FONTDASU;
+                                 font-size: 20px;
+                             }
+                             p{
+                                 margin-top: 4%;
+                                 line-height: 13px;
+                                 font-size: 7px;
+                             }
+                             button{
+                                 width: 130px;
+                                 height: 35px;
+                                 margin-top: 2%;
+                                 font-size: 12px;
+                             }
+                         }
+                        }
+                     }
+                     @media screen and (max-width: 300px) {
+                        .thirdimg{ 
+                            position: relative;
+                            img{
+                                height: 27vh;
+                                object-fit: cover;
+                            }
+                            .thirdText{
+                                position: absolute;
+                                top: 20%;
+                                span{
+                                    font-size: 12px;
+                                }
+                                h3{
+                                    font-size: 13px;
+                                    font-weight: bolder;
+                                }
+                                p{
+                                    font-size: 6px;
+                                    // line-height: 15px;
+                                    margin-top: 0;
+                                    
+                                }
+                                button{
+                                    margin-top: 0;
+                                    width: 100px;
+                                    height: 30px;
+                                    font-size: 10px;
+                                }
+                            }
+                        }
+                    }
+                    // Third slide media end
+            }
+            .carousel-control-prev{
+                top: 15%;           
+            }
+            .carousel-control-next{
+                top: 15%;
+           
+            }
+        }
+    }
+}
+// HERO SECTION END
+
+
+// BEAUTY SECTION START
+.beauty{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 6%;
+    background-color: rgb(22, 20, 20);
+    .conta{
+        width: 70%;
+        .row{
+            .left{
+               .d-flex{
+                gap: 40px;
+                    .lipstick{
+                        position: relative;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 95%;
+                        overflow: hidden;
+                        img{
+                            transition: .5s;
+                            width: 100%;
+                        }
+                        p{
+                            position: absolute;
+                            top: 20px;
+                            color: white;
+                            font-size: 22px;
+                            font-family: cursive;
+                            font-weight: bold;
+                        }
+                        &:hover{
+                            img{
+                                transform: scale(1.1);
+                            }
+                        }
+                    }
+                    .brush{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 95%;
+                        overflow: hidden;
+                        position: relative;
+                        img{
+                            width: 100%;
+                            transition: .5s;
+                        }
+                        p{
+                            position: absolute;
+                            top: 20px;
+                            color: white;
+                            font-size: 22px;
+                            font-family: cursive;
+                            font-weight: bold;
+                        }
+                        &:hover{
+                            img{
+                                transform: scale(1.1);
+                            }
+                        }
+                    }
+               }
+            }
+            .middle{
+                .d-flex{
+                    gap: 40px;
+                    .girl{
+                        width: 90%;
+                        overflow: hidden;
+                        position: relative;
+                        img{
+                            width: 100%;
+                            transition: .5s;
+                        }
+                        p{
+                            position: absolute;
+                            top: 20px;
+                            left: 25%;
+                            color: white;
+                            font-size: 20px;
+                            font-family: cursive;
+                            font-weight: bold;
+                        }
+                        &:hover{
+                            img{
+                                transform: scale(1.1);
+                            }
+                        }
+                    }
+                }
+            }
+            .right{
+                .d-flex{
+                    gap: 40px;
+                    .eyeliner{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 95%;
+                        overflow: hidden;
+                        position: relative;
+                        img{
+                            width: 100%;
+                            transition: .5s;
+                        }
+                        p{
+                            position: absolute;
+                            top: 20px;
+                            color: white;
+                            font-size: 22px;
+                            font-family: cursive;
+                            font-weight: bold;
+                        }
+                        &:hover{
+                            img{
+                                transform: scale(1.1);
+                            }
+                        }
+                    }
+                    .mascara{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 95%;
+                        overflow: hidden;
+                        position: relative;
+                        img{
+                            width: 100%;
+                            transition: .5s;
+                        }
+                        p{
+                            position: absolute;
+                            top: 20px;
+                            color: white;
+                            font-size: 22px;
+                            font-family: cursive;
+                            font-weight: bold;
+                        }
+                        &:hover{
+                            img{
+                                transform: scale(1.1);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Beauty section media start
+@media  screen and (max-width:1100px) {
+    .beauty{
+        .conta{
+            .row{
+                .left{
+                    .d-flex{
+                        gap: 33px;
+                    }
+                }
+                .right{
+                    .d-flex{
+                        gap: 33px;
+                    }
+                }
+            }
+        }
+    }
+}
+@media  screen and (max-width:1024px) {
+    .beauty{
+        .conta{
+            .row{
+                .left{
+                    .d-flex{
+                        gap: 33px;
+                        .lipstick{
+                            p{
+                                font-size: 20px;
+                            }
+                        }
+                        .brush{
+                            p{
+                                font-size: 20px;
+                            }
+                        }
+                    }
+                }
+                .middle{
+                    .d-flex{
+                       .girl{
+                            p{
+                                left: 15%;
+                                font-size: 20px;
+                            }
+                       }
+                    }
+                }
+                .right{
+                    .d-flex{
+                        gap: 33px;
+                      .eyeliner{
+                        p{
+                            font-size: 20px;
+                        }
+                      }
+                      .mascara{
+                        p{
+                            font-size: 20px;
+                        }
+                      }
+                    }
+                }
+            }
+        }
+    }
+}
+@media  screen and (max-width:929px) {
+    .beauty{
+        .conta{
+            .row{
+                .left{
+                    .d-flex{
+                        gap: 27px;
+                       .lipstick{
+                        p{
+                            font-size: 18px;
+                        }
+                       }
+                       .brush{
+                        p{
+                            font-size: 18px;
+                        }
+                       }
+                    }
+                }
+                .middle{
+                    .d-flex{
+                       .girl{
+                            p{
+                                left: 15%;
+                                font-size: 18px;
+                            }
+                       }
+                    }
+                }
+                .right{
+                    .d-flex{
+                        gap: 27px;
+                        .eyeliner{
+                            p{
+                                font-size: 18px;
+                            }
+                        }
+                        .mascara{
+                            p{
+                                font-size: 18px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media  screen and (max-width:829px) {
+    .beauty{
+        .conta{
+            .row{
+                .left{
+                    .d-flex{
+                        gap: 24px;
+                     .lipstick{
+                        p{
+                            font-size: 15px;
+                        }
+                     }
+                     .brush{
+                        p{
+                            font-size: 15px;
+                        }
+                     }
+                    }
+                }
+                .middle{
+                    .d-flex{
+                       .girl{
+                            p{
+                                left: 12%;
+                                font-size: 15px;
+                            }
+                       }
+                    }
+                }
+                .right{
+                    .d-flex{
+                        gap: 24px;
+                        .eyeliner{
+                            p{
+                                font-size: 15px;
+                            }
+                        }
+                        .mascara{
+                            p{
+                                font-size: 15px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media  screen and (max-width:765px) {
+    .beauty{
+        .conta{
+            .row{
+                .left{
+                    .d-flex{
+                        gap: 24px;
+                       .lipstick{
+                            p{
+                                font-size: 33px;
+                            }
+                       }
+                       .brush{
+                            p{
+                                font-size: 33px;
+                            }
+                       }
+                    }
+                }
+                .middle{
+                    .d-flex{
+                        .girl{
+                        width: 95%;
+                        img{
+                            width: 100%;
+                            height: 50vh;
+                            object-fit: cover;
+
+                        }
+                            p{
+                                top: 8%;
+                                left: 24%;
+                                font-size: 33px;
+                            }
+                       }
+                    }
+                }
+                .right{
+                    .d-flex{
+                        gap: 24px;
+                      .eyeliner{
+                        width: 97%;
+                        img{
+                            width: 100%;
+                        }
+                        p{
+                            font-size: 33px;
+                        }
+                      }
+                      .mascara{
+                        width: 97%;
+                        img{
+                            width: 100%;
+                        }
+                        p{
+                            font-size: 33px;
+                        }
+                      }
+                    }
+                }
+            }
+        }
+    }
+}
+@media  screen and (max-width:549px) {
+    .beauty{
+        .conta{
+            .row{
+                .left{
+                    .d-flex{
+                        gap: 24px;
+                       .lipstick{
+                            p{
+                                font-size: 28px;
+                            }
+                       }
+                       .brush{
+                            p{
+                                font-size: 28px;
+                            }
+                       }
+                    }
+                }
+                .middle{
+                    .d-flex{
+                        .girl{
+                        width: 95%;
+                        img{
+                            width: 100%;
+                            height: 43vh;
+                            object-fit: cover;
+
+                        }
+                            p{
+                                top: 4%;
+                                left: 22%;
+                                font-size: 28px;
+                            }
+                       }
+                    }
+                }
+                .right{
+                    .d-flex{
+                        gap: 24px;
+                      .eyeliner{
+                        width: 97%;
+                        img{
+                            width: 100%;
+                        }
+                        p{
+                            font-size: 28px;
+                        }
+                      }
+                      .mascara{
+                        width: 97%;
+                        img{
+                            width: 100%;
+                        }
+                        p{
+                            font-size: 28px;
+                        }
+                      }
+                    }
+                }
+            }
+        }
+    }
+}
+@media  screen and (max-width:453px) {
+    .beauty{
+        .conta{
+            .row{
+                .left{
+                    .d-flex{
+                       .lipstick{
+                            p{
+                                font-size: 25px;
+                            }
+                       }
+                       .brush{
+                            p{
+                                font-size: 25px;
+                            }
+                       }
+                    }
+                }
+                .middle{
+                    .d-flex{
+                        .girl{
+                        width: 95%;
+                        img{
+                            width: 100%;
+                            height: 33vh;
+                            object-fit: cover;
+
+                        }
+                            p{
+                                top: 4%;
+                                left: 18%;
+                                font-size: 25px;
+                            }
+                       }
+                    }
+                }
+                .right{
+                    .d-flex{
+                      .eyeliner{
+                        width: 98%;
+                        img{
+                            width: 100%;
+                        }
+                        p{
+                            font-size: 25px;
+                        }
+                      }
+                      .mascara{
+                        width: 98%;
+                        img{
+                            width: 100%;
+                        }
+                        p{
+                            font-size: 25px;
+                        }
+                      }
+                    }
+                }
+            }
+        }
+    }
+}
+@media  screen and (max-width:368px) {
+    .beauty{
+        .conta{
+            .row{
+                .left{
+                    .d-flex{
+                       .lipstick{
+                            p{
+                                font-size: 22px;
+                            }
+                       }
+                       .brush{
+                            p{
+                                font-size: 22px;
+                            }
+                       }
+                    }
+                }
+                .middle{
+                    .d-flex{
+                        .girl{
+                        width: 95%;
+                        img{
+                            width: 100%;
+                            height: 27vh;
+                            object-fit: cover;
+
+                        }
+                            p{
+                                top: 4%;
+                                left: 12%;
+                                font-size: 22px;
+                            }
+                       }
+                    }
+                }
+                .right{
+                    .d-flex{
+                      .eyeliner{
+                        width: 97%;
+                        img{
+                            width: 100%;
+                        }
+                        p{
+                            font-size: 22px;
+                        }
+                      }
+                      .mascara{
+                        width: 97%;
+                        img{
+                            width: 100%;
+                        }
+                        p{
+                            font-size: 22px;
+                        }
+                      }
+                    }
+                }
+            }
+        }
+    }
+}
+// Beauty section media end
+
+// BEAUTY SECTION END
+
+
+// LOTION SECTION START
+.lotion{
+    background-color: rgb(22, 20, 20);
+    .container{
+        .top{
+            .row{
+                div{
+                    h4{
+                        color: white;
+                        font-family:  ParaType;
+                        font-size: 27px;
+                        letter-spacing: 2px;
+                        font-weight: bolder;
+                    }
+                }
+                div{
+                        div{
+                            p{
+                                color: white;
+                                text-align: end;
+                                vertical-align: middle;
+                                font-family: ParaType;
+                                font-size: 23px;
+                            }
+                       }
+                }
+            }
+        }
+        .products{
+            .row{
+                div{
+                    position: relative; 
+                        .cards{             
+                        .card-body{
+                            text-align: center;
+                            color: white;
+                            margin-top: 15px;
+                            line-height: 50px;
+                            h5{
+                                font-size: 20px;
+                                font-weight: bold;
+                                font-family:  Friedrich Althausen;
+                                transition: .5s;
+                                cursor: pointer;
+                                &:hover{
+                                    color: #b367d0;
+                                }
+                            }
+                            p{
+                                font-size: 20px;
+                                font-family:  Friedrich Althausen;
+                                transition: .5s;
+                                cursor: pointer;
+                                &:hover{
+                                    color: #b367d0;
+                                }
+                            }
+                        }
+                        .hover{
+                            position: absolute;  
+                            top: 0;  
+                            opacity: 0; 
+                            visibility: hidden;
+                            transition: .5s;
+                            img{
+                             position: relative;
+                            }                  
+                             .card-body{                              
+                                 color: white;
+                                 position: absolute;
+                                 top: 35%;
+                                 left: 13%;
+                                 display: flex;
+                                 align-items: center;
+                                 justify-content: space-between;
+                                     div{
+                                         button{
+                                             border: 1px solid rgb(22, 20, 20);
+                                             background-color: rgb(22, 20, 20);
+                                             color: white;
+                                             padding: 3px 5px;
+                                             transition: .5s;
+                                                &:hover{
+                                                    color: #b367d0;
+                                                }
+                                            
+                                         }
+                                     }
+                             }
+                         }
+                    }                                          
+                        &:hover{
+                            .hover{
+                                visibility: visible;
+                                opacity: 1;
+                            }
+                        }
+                }
+            }
+        }
+    }
+}
+// Lotion section media start
+@media screen and (max-width:2223px) {
+    .lotion{
+        .container{
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 35%;
+                                    left: 17%;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:1394px) {
+    .lotion{
+        .container{
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 35%;
+                                    left: 11%;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:1198px) {
+    .lotion{
+        .container{
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .card-body{
+                                h5{
+                                    font-size: 16px;
+                                }
+                            }
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 30%;
+                                    left: 7%;
+                                    button{
+                                        font-size: 14px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:993px) {
+    .lotion{
+        .container{
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .card-body{
+                                h5{
+                                    font-size: 17px;
+                                }
+                            }
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 20%;
+                                    left: 5%;
+                                    button{
+                                        font-size: 8px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:766px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 25px;
+                        }
+                    }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .card-body{
+                                h5{
+                                    font-size: 20px;
+                                }
+                                p{
+                                    font-size: 20px;
+                                }
+                            }
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 40%;
+                                    left: 19.5%;
+                                    button{
+                                        font-size: 22px;
+                                        padding: 20px 30px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:570px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 25px;
+                        }
+                    }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .card-body{
+                                h5{
+                                    font-size: 25px;
+                                }
+                                p{
+                                    font-size: 25px;
+                                }
+                            }
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 43%;
+                                    left: 28%;
+                                    button{
+                                        font-size: 25px;
+                                        width: 50px;
+                                        padding: 50px 57px;
+                                        margin-right: 2px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:507px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 25px;
+                        }
+                    }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .card-body{
+                                h5{
+                                    font-size: 25px;
+                                }
+                                p{
+                                    font-size: 25px;
+                                }
+                            }
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 43%;
+                                    left: 27.5%;
+                                    button{
+                                        font-size: 25px;
+                                        width: 50px;
+                                        padding: 50px 57px;
+                                        margin-right: 2px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:457px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 25px;
+                        }
+                    }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .card-body{
+                                h5{
+                                    font-size: 25px;
+                                }
+                                p{
+                                    font-size: 25px;
+                                }
+                            }
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 43%;
+                                    left: 25%;
+                                    button{
+                                        font-size: 25px;
+                                        width: 50px;
+                                        padding: 50px 57px;
+                                        margin-right: 2px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:439px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 18px;
+                        }
+                    }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 47%;
+                                    left: 23%;
+                                    button{
+                                        font-size: 25px;
+                                        padding: 40px 47px;
+                                        margin-right: 2px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:397px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 16px;
+                        }
+                    }
+                    div{
+                        div{
+                            p{
+                                font-size: 15px;
+                            }
+                       }
+                }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 43%;
+                                    left: 20%;
+                                    button{
+                                        font-size: 25px;
+                                        padding: 40px 47px;
+                                        margin-right: 2px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:360px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 16px;
+                        }
+                    }
+                    div{
+                        div{
+                            p{
+                                font-size: 15px;
+                            }
+                       }
+                }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 43%;
+                                    left: 16%;
+                                    button{
+                                        font-size: 25px;
+                                        padding: 40px 47px;
+                                        margin-right: 2px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:348px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 16px;
+                        }
+                    }
+                    div{
+                        div{
+                            p{
+                                font-size: 15px;
+                            }
+                       }
+                }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 43%;
+                                    left: 12%;
+                                    button{
+                                        font-size: 25px;
+                                        padding: 40px 47px;
+                                        margin-right: 2px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:302px) {
+    .lotion{
+        .container{
+            .top{
+                .row{
+                    div{
+                        h4{
+                            font-size: 14px;
+                        }
+                    }
+                    div{
+                        div{
+                            p{
+                                font-size: 16px;
+                            }
+                       }
+                }
+                }
+            }
+            .products{
+                .row{
+                    div{
+                        .cards{
+                            .hover{
+                                .card-body{
+                                    position: absolute;
+                                    top: 40%;
+                                    left: 8.5%;
+                                    button{
+                                        font-size: 17px;
+                                        padding:45px;
+                                        margin-right: 2px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Lotion section media end
+
+// LOTION SECTION END
+
+
+
+// NEW ARRIVALS SECTION  START
+
+.arrivals{
+    background-color: rgb(22, 20, 20) ;
+    padding-top: 6%;
+    .container{
+        .top{
+            div{
+                h4{
+                    color: white;
+                    font-family:  ParaType;
+                    font-size: 27px;
+                    letter-spacing: 2px;
+                    font-weight: bolder;
+                }
+            }
+        }
+        .sliderProducts{
+            div{
+                position: relative; 
+                    .cards{             
+                    .card-body{
+                        text-align: center;
+                        color: white;
+                        margin-top: 15px;
+                        line-height: 50px;
+                        h5{
+                            font-size: 20px;
+                            font-weight: bold;
+                            font-family:  Friedrich Althausen;
+                            transition: .5s;
+                            cursor: pointer;
+                            &:hover{
+                                color: #b367d0;
+                            }
+                        }
+                        p{
+                            font-size: 20px;
+                            font-family:  Friedrich Althausen;
+                            transition: .5s;
+                            cursor: pointer;
+                            &:hover{
+                                color: #b367d0;
+                            }
+                        }
+                    }
+                    .hover{
+                        position: absolute;  
+                        top: 0;  
+                        opacity: 0; 
+                        visibility: hidden;
+                        transition: .5s;
+                        img{
+                         position: relative;
+                        }                  
+                         .card-body{                              
+                             color: white;
+                             position: absolute;
+                             top: 38%;
+                             left: 11%;
+                             display: flex;
+                             align-items: center;
+                             justify-content: center;
+                                 div{
+                                     button{
+                                        border: 1px solid rgb(22, 20, 20);
+                                        background-color: rgb(22, 20, 20);
+                                        color: white;
+                                        padding: 6px 8px;
+                                        transition: .5s;
+                                           &:hover{
+                                               color: #b367d0;
+                                           }
+                                        
+                                     }
+                                 }
+                         }
+                     }
+                     &:hover{
+                         .hover{
+                             visibility: visible;
+                             opacity: 1;
+                         }
+                     }
+                }                     
+                    
+            }
+        }
+    }
+}
+// New Arrivals media start
+@media screen and (max-width:917px) {
+    .arrivals{
+        .container{
+            .sliderProducts{
+                div{
+                    .cards{
+                        .hover{
+                            img{
+                                position: relative;
+                            }
+                            .card-body{
+                                    position: absolute;
+                                    top: 40%;
+                                    left: 9%;
+                                    div{
+                                            button{
+                                                font-size: 20px;
+                                            }
+                                    }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// New Arrivals media end
+
+//NEW ARRIVALS SECTION END
+
+
+// TOP SELLER SECTION START
+.topSeller{
+    background-color: rgb(22, 20, 20);
+    padding-top: 10%;
+    .container{
+        .conta{
+            background-color: rgb(34, 32, 32);
+            padding-top: 2%;
+            padding-bottom: 7%;
+            .title{
+                h4{
+                    color: white;
+                    font-family:  ParaType;
+                    font-size: 27px;
+                    letter-spacing: 2px;
+                    font-weight: bolder;
+                }
+            }
+            .bestSellerProducts{
+                padding-top: 5%;
+                .container{
+                    width: 93%;
+                    .row{
+                        div{
+                            // Left Card
+                            .cart{
+                                .row{
+                                    div{
+                                        position: relative;
+                                        img{
+                                            width: 90%;
+                                        }
+                                        .card-body{
+                                            display: flex;
+                                            flex-direction: column;
+                                            align-items: center;
+                                            justify-content: center;
+                                            padding-top: 5%;
+                                            h5{
+                                                color: white;
+                                                font-size: 25px;
+                                                font-weight: bold;
+                                                font-family:  FONTDASU;
+                                                font-style: italic;
+                                                transition: .5s;
+                                                cursor: pointer;
+                                                &:hover{
+                                                    color: #b367d0;
+                                                }
+                                            }
+                                            p{
+                                                font-size: 20px;
+                                                 color: white;
+                                                 font-family:  Friedrich Althausen;
+                                                 transition: .5s;
+                                                 cursor: pointer;
+                                                 del{
+                                                     color: #fff;
+                                                     font-family:  Friedrich Althausen;
+                                                 }
+                                                 &:hover{
+                                                     color: #b367d0;
+                                                 }
+                                            }
+                                        }
+                                        .hoverPhoto{
+                                                position: absolute;
+                                                width: 95%;
+                                                top: 0%;
+                                                left: 7%;
+                                                visibility: hidden;
+                                                opacity: 0;
+                                                transition: .5s;
+                                                div{
+                                                    img{
+                                                        width: 100%;
+                                                    }
+                                                }
+                                        }
+                                    }
+                                }
+                            }
+                            // Hover Of Left Card
+                            &:hover{
+                                .cart{
+                                    .row{
+                                        .hoverPhoto{
+                                            visibility: visible;
+                                            opacity: 1;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        // Products
+                        .products{
+                            .row{
+                                div{
+                                    position: relative;
+                                    .cards{
+                                        padding-bottom: 17%;
+                                        .row{
+                                            div{
+                                                img{
+                                                    width: 100%;
+                                                }
+                                            }
+                                            .card-body{
+                                                display: flex;
+                                                flex-direction: column;
+                                                justify-content: center;
+                                                z-index: 1;
+                                                h5{
+                                                    font-size: 20px;
+                                                    color: white;
+                                                    font-weight: bold;
+                                                    font-family:  FONTDASU;
+                                                    font-style: italic;
+                                                    transition: .5s;
+                                                    cursor: pointer;
+                                                    &:hover{
+                                                        color: #b367d0;
+                                                    }
+                                                }
+                                                p{
+                                                    font-size: 20px;
+                                                    color: white;
+                                                    font-family:  Friedrich Althausen;
+                                                    transition: .5s;
+                                                    cursor: pointer;
+                                                    del{
+                                                        color: #fff;
+                                                        font-family:  Friedrich Althausen;
+                                                    }
+                                                    &:hover{
+                                                        color: #b367d0;
+                                                    }
+    
+                                                }
+                                            }
+                                            .hoverDiv{
+                                                position: absolute;
+                                                top: 0%;
+                                                visibility: hidden;
+                                                opacity: 0;
+                                                transition: .5s;
+                                            }
+                                        }
+                                    }
+                                    // Hover Of Card
+                                    &:hover{
+                                        .cards{
+                                            .row{
+                                                .hoverDiv{
+                                                    visibility: visible;
+                                                    opacity: 1;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Top Seller media start
+@media screen and (max-width:1199px) {
+    .topSeller{
+        .container{
+            .conta{
+                .bestSellerProducts{
+                    .container{
+                        .row{
+                            .products{
+                                .row{
+                                    div{
+                                        .cards{
+                                            .row{
+                                                .card-body{
+                                                    h5{
+                                                        font-size: 15px;
+                                                    }
+                                                    p{
+                                                        font-size: 15px;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:990px) {
+    .topSeller{
+        .container{
+            .conta{
+                .bestSellerProducts{
+                    .container{
+                        .row{
+                            .products{
+                                .row{
+                                    div{
+                                        .cards{
+                                            .row{
+                                                .card-body{
+                                                    h5{
+                                                        font-size: 10px;
+                                                    }
+                                                    p{
+                                                        font-size: 12px;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:763px) {
+    .topSeller{
+        .container{
+            .conta{
+                .bestSellerProducts{
+                    .container{
+                        .row{
+                            .products{
+                                .row{
+                                    div{
+                                        .cards{
+                                            .row{
+                                                .card-body{
+                                                    h5{
+                                                        font-size: 20px;
+                                                    }
+                                                    p{
+                                                        font-size: 20px;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:575px) {
+    .topSeller{
+        .container{
+            width: 100%;
+            .conta{
+                width: 99%;
+                .bestSellerProducts{
+                    .container{
+                        .row{
+                            .products{
+                                .row{
+                                    div{
+                                        .cards{
+                                            .row{
+                                                .card-body{
+                                                    h5{
+                                                        font-size: 23px;
+                                                    }
+                                                    p{
+                                                        font-size: 25px;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:300px) {
+    .topSeller{
+        .container{
+            .conta{
+                .bestSellerProducts{
+                    .container{
+                        .row{
+                            .products{
+                                .row{
+                                    div{
+                                        .cards{
+                                            .row{
+                                                 .card-body{
+                                                    h5{
+                                                        font-size: 17px;
+                                                    }
+                                                    p{
+                                                        font-size: 18px;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Top Seller media end
+
+// TOP SELLER SECTION END
+
+
+// SALE SECTION START
+.saleCards{
+    padding-top: 7%;
+    padding-bottom: 5%;
+    background-color: rgb(22, 20, 20);
+    .container{
+        .row{
+            div{
+                overflow: hidden;
+                .cards{
+                    border: 9px solid #b367d0;
+                    width: 100%;
+                    cursor: pointer;
+                    animation-name: aosCard;
+                    img{
+                        width: 100%;
+                        transition: .5s;
+                        &:hover{
+                            transform: scale(1.1);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+// SALE SECTION END
+
+// FROM THE BLOG SECTION START
+.fromTheBlog{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: rgb(22, 20, 20);
+    .container{
+        .title{
+            padding-bottom: 1.5%;
+            border-bottom: 1px solid white;
+            h4{
+                color: white;
+                font-family:  ParaType;
+                font-size: 27px;
+                letter-spacing: 2px;
+                font-weight: bolder;
+            }
+        }
+        .infoCards{
+            .row{
+                div{
+                    .card{
+                        border: none;
+                        background-color: rgb(34, 32, 32);
+                        // box-shadow: 5px 10px 8px #58115a;
+                        .card-body{
+                            h5{
+                                color: white;
+                                font-family:  FONTDASU;
+                                font-style: italic;
+                                font-size: 25px;
+                            }
+                            .icons{
+                                color: white;
+                                .iconUser{
+                                    i{
+                                        border: 1px solid #b367d0;
+                                        color: #b367d0;
+                                        font-size: 17px;
+                                        border-radius: 50%;
+                                        padding: 1.1%;
+                                    }
+                                }
+                                .iconCalendar{
+                                    i{
+                                        color: #b367d0;
+                                        font-size: 17px;
+                                    }
+                                }
+                            }
+                            .card-text{
+                                color: white;
+                                font-size: 18px;
+                                font-family: Para Type;
+                            }
+                            button{
+                                background-color: rgb(22, 20, 20);
+                                color: white;
+                                padding: 10px 15px;
+                                transition: .5s;
+                                
+                               i{
+                                transition: .5s;
+                               }
+                                &:hover{
+                                    background: linear-gradient(to right, purple , transparent);
+                                    i{
+                                        transform: translateX(10px);
+                                    }
+                                }
+                            }
+                            }
+                    }
+                }
+            }
+        }
+    }
+}
+// From The Blog media start
+@media screen and (max-width:1151px){
+.fromTheBlog{
+    .container{
+        .infoCards{
+            .row{
+                div{
+                    .card{
+                        width: 100%;
+                        .card-body{
+                            .icons{
+                                .iconUser{
+                                    font-size: 13px;
+                                }
+                                .iconCalendar{
+                                    font-size: 13px;
+                                }
+                            }
+                            .card-text{
+                                font-size: 20px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+}
+@media screen and (max-width:968px){
+.fromTheBlog{
+    .container{
+        .infoCards{
+            .row{
+                div{
+                    .card{
+                        width: 100%;
+                        .card-body{
+                            h5{
+                                font-size: 19px;
+                            }
+                            .icons{
+                                .iconUser{
+                                    font-size: 13px;
+                                }
+                                .iconCalendar{
+                                    font-size: 13px;
+                                }
+                            }
+                            .card-text{
+                                font-size: 16px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+}
+// From The Blog media end
+
+// FROM THE BLOG SECTION END

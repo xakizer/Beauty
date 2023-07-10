@@ -1,0 +1,866 @@
+.about{
+    // FIRST SECTION START
+    .main{
+        .first{
+            padding: 40px 0px;
+            .container{
+                background-color: rgb(37, 35, 35);
+                .d-flex{
+                    height: 30vh;
+                    h4{
+                        font-family:  Friedrich Althausen;
+                        letter-spacing: 2px;
+                        font-size: 25px;
+                        color: white;
+                    }
+                    div{
+                        :nth-child(1){
+                            transition: .5s;
+                                    cursor: pointer;
+                                    color: white;
+                                    &:hover{
+                                        color: purple;
+                                    }
+                        }
+                        :last-child{
+                            cursor: pointer;
+                            color: white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // FIRST SECTION END
+
+
+    //INFORMATION SECTION START
+    .main{
+        .information{
+            background-image: linear-gradient(to top, rgb(14, 13, 13),rgb(27, 25, 25) ,transparent);
+            padding: 40px 0px;
+            .container{
+                h4{
+                    color: white;
+                    font-family:  Friedrich Althausen;
+                    font-weight: bolder;
+                    font-size: 30px;
+                    margin: 30px 0px 40px 0px;
+                }
+                @media  screen and (max-width:489px) {
+                    h4{
+                        font-size: 23px;
+                    }
+                }
+                .row{
+                    :nth-child(1){
+                        .d-flex{
+                            .faceCream{
+                                width: 100%;
+                                position: relative;
+                                overflow: hidden;
+                                img{
+                                    width: 100%;
+                                    height: 90vh;
+                                    object-fit: cover;
+                                    animation-name: faceCream;
+                                    transition: .5s;
+                                }
+                                .opacity{
+                                    position: absolute;
+                                    top: 0;
+                                    width: 100%;
+                                    height: 90vh;
+                                    background-color: black;
+                                    opacity: 0;
+                                    visibility: hidden;
+                                    transition: .5s;
+
+                                }
+                                .textLeft{
+                                    position: absolute;
+                                    top: 37%;
+                                    left: 6%;
+                                    text-align: center;
+                                    visibility: hidden;
+                                    opacity: 0;
+                                    transition: .5s;
+                                    transform: scale(1.1);
+                                    h3{
+                                        color: white;
+                                        font-family:  Friedrich Althausen;
+                                    }
+                                    span{
+                                        color: white;
+                                        font-size: 22px;
+                                        font-family:  Friedrich Althausen;
+                                    }
+                                    p{
+                                        color: white;
+                                        font-size: 18px;
+                                        font-family:  sans-serif;
+                                    }
+                                }
+                                &:hover{
+                                    img{
+                                        transform: scale(1.1);
+                                    }
+                                    .opacity{
+                                        visibility: visible;
+                                        opacity: .6;
+                                    }
+                                    .textLeft{
+                                        opacity: 1;
+                                        visibility: visible;
+                                        transform: scale(1);
+                                    }
+                                }
+                             }
+                            //  FACEIMG MEDIA START
+                             @media screen and (max-width:1463px) {
+                                .faceCream{
+                                    .textLeft{
+                                        position: absolute;
+                                        left: 9%;
+                                        p{
+                                            font-size: 15px;
+                                        }
+                                    }
+                                }
+                             }
+                             @media screen and (max-width:1184px){
+                                .faceCream{
+                                    .textLeft{
+                                        position: absolute;
+                                        left: 7%;
+                                        p{
+                                            font-size: 13px;
+                                        }
+                                    }
+                                }
+                             }
+                             @media screen and (max-width:756px){
+                                .faceCream{
+                                    img{
+                                        height: 40vh;
+                                    }
+                                    .textLeft{
+                                        position: absolute;
+                                        left: 25%;
+                                        p{
+                                            font-size: 10px;
+                                        }
+                                    }
+                                }
+                             }
+                             @media screen and (max-width:415px){
+                                .faceCream{
+                                    img{
+                                        height: 40vh;
+                                    }
+                                    .textLeft{
+                                        position: absolute;
+                                        left: 25%;
+                                      
+                                        p{
+                                            font-size: 7px;
+                                        }
+                                    }
+                                }
+                             }
+                             @media screen and (max-width:375px){
+                                .faceCream{
+                                    img{
+                                        height: 40vh;
+                                    }
+                                    .textLeft{
+                                        position: absolute;
+                                        left: 22%;
+                                      
+                                        p{
+                                            font-size: 7px;
+                                        }
+                                    }
+                                }
+                             }
+                             @media screen and (max-width:360px){
+                                .faceCream{
+                                    img{
+                                        height: 40vh;
+                                    }
+                                    .textLeft{
+                                        position: absolute;
+                                        left: 21%;
+                                      
+                                        p{
+                                            font-size: 7px;
+                                        }
+                                    }
+                                }
+                             }
+                             @media screen and (max-width:324) {
+                                .faceCream{
+                                    img{
+                                        height: 40vh;
+                                    }
+                                    .textLeft{
+                                        position: absolute;
+                                        left: 5%;
+                                      
+                                        p{
+                                            font-size: 3px;
+                                        }
+                                    }
+                                }
+                             }
+                             @media screen and (max-width:320) {
+                                .faceCream{
+                                    img{
+                                        height: 40vh;
+                                    }
+                                    .textLeft{
+                                        position: absolute;
+                                        left: 1%;                                     
+                                        p{
+                                            font-size: 3px;
+                                        }
+                                    }
+                                }
+                             }
+                            //  FACEIMAGE MEDIA END
+                        }
+                    }
+                    :last-child{
+                        .photos{
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: space-evenly;
+                            gap: 31px;
+                            .lipstickImage{
+                                width: 90%;
+                                position: relative;
+                                overflow: hidden;
+                                img{
+                                    width: 100%;
+                                    height: 43vh;
+                                    object-fit: cover;
+                                    transition: .5s;
+                                }
+                                .opacity{
+                                    position: absolute;
+                                    top: 0;
+                                    width: 100%;
+                                    height: 43vh;
+                                    background-color: black;
+                                    opacity: 0;
+                                    visibility: hidden;
+                                    transition: .5s;
+
+                                }
+                                .lipstickText{
+                                    position: absolute;
+                                    top: 28%;
+                                    left: 13%;
+                                    text-align: center;
+                                    visibility: hidden;
+                                    opacity: 0;
+                                    transition: .5s;
+                                    transform: scale(1.1);
+                                    h3{
+                                        color: white;
+                                        font-family:  Friedrich Althausen;
+                                        font-weight: bolder;
+                                    }
+                                    span{
+                                        color: white;
+                                        font-size: 18px;
+                                        font-weight: bolder;
+                                        font-family:  Friedrich Althausen;
+                                    }
+                                    p{
+                                        color: white;
+                                        font-size: 15px;
+                                        font-family:  sans-serif;
+                                    }
+                                }
+                                &:hover{
+                                    img{
+                                        transform: scale(1.1);
+                                    }
+                                    .opacity{
+                                        visibility: visible;
+                                        opacity: .6;
+                                    }
+                                    .lipstickText{
+                                        opacity: 1;
+                                        visibility: visible;
+                                        transform: scale(1);
+                                    }
+                                }
+                            }
+                                // LIPSTICKIMAGE MEDIA START
+                                @media screen and (max-width:1367px) {
+                                    .lipstickImage{
+                                        .lipstickText{
+                                            position: absolute;
+                                            left: 10%;
+                                            p{
+                                                font-size: 13px;
+                                            }
+                                        }
+                                    }
+                                }
+                                @media screen and (max-width:1185px) {
+                                    .lipstickImage{
+                                        .lipstickText{
+                                            position: absolute;
+                                            left: 6%;
+                                            p{
+                                                font-size: 12px;
+                                            }
+                                        }
+                                    }
+                                }
+                                @media screen and (max-width:990px) {
+                                    .lipstickImage{
+                                        .lipstickText{
+                                            position: absolute;
+                                            left: 5%;
+                                            span{
+                                                font-size: 17px;
+                                            }
+                                            h3{
+                                                font-size: 20px;
+                                            }
+                                            p{
+                                                font-size: 9px;
+                                            }
+                                        }
+                                    }
+                                }
+                                @media screen and (max-width:768px) {
+                                    .lipstickImage{
+                                        width: 100%;
+                                        margin-top: 40px;
+                                        img{
+                                            width: 100%;
+                                        }
+                                        .lipstickText{
+                                            position: absolute;
+                                            left: 13%;
+                                            span{
+                                                font-size: 20px;
+                                            }
+                                            h3{
+                                                font-size: 20px;
+                                            }
+                                            p{
+                                                font-size: 14px;
+                                            }
+                                        }
+                                    }
+                                }
+                                @media screen and (max-width:491px) {
+                                    .lipstickImage{
+                                        width: 100%;
+                                        margin-top: 40px;
+                                        img{
+                                            width: 100%;
+                                        }
+                                        .lipstickText{
+                                            position: absolute;
+                                            left: 11%;
+                                            span{
+                                                font-size: 17px;
+                                            }
+                                            h3{
+                                                font-size: 20px;
+                                            }
+                                            p{
+                                                font-size: 12px;
+                                            }
+                                        }
+                                    }
+                                }
+                                @media screen and (max-width:393px) {
+                                    .lipstickImage{
+                                        width: 100%;
+                                        margin-top: 40px;
+                                        img{
+                                            width: 100%;
+                                        }
+                                        .lipstickText{
+                                            position: absolute;
+                                            left: 18%;
+                                            span{
+                                                font-size: 14px;
+                                            }
+                                            h3{
+                                                font-size: 20px;
+                                            }
+                                            p{
+                                                font-size: 9px;
+                                            }
+                                        }
+                                    }
+                                }
+                                @media screen and (max-width:360px) {
+                                    .lipstickImage{
+                                        width: 100%;
+                                        margin-top: 40px;
+                                        img{
+                                            width: 100%;
+                                        }
+                                        .lipstickText{
+                                            position: absolute;
+                                            left: 13%;
+                                            span{
+                                                font-size: 14px;
+                                            }
+                                            h3{
+                                                font-size: 20px;
+                                            }
+                                            p{
+                                                font-size: 9px;
+                                            }
+                                        }
+                                    }
+                                }
+                                // LIPSTICKIMAGE MEDIA END
+                            
+                            .paletteImage{
+                                width: 90%;
+                                overflow: hidden;
+                                position: relative;
+                                img{
+                                    width: 100%;
+                                    height: 43vh;
+                                    object-fit: cover;
+                                    transition: .5s;
+                                    @media screen and (max-width:912px){
+                                        height: 45vh;
+                                    }
+                                    @media screen and (max-width:768px){
+                                        height: 38.5vh;
+                                    }
+                                }
+                                .opacity{
+                                    position: absolute;
+                                    top: 0;
+                                    width: 100%;
+                                    height: 43vh;
+                                    background-color: black;
+                                    opacity: 0;
+                                    visibility: hidden;
+                                    transition: .5s;
+                                }
+                                .paletteText{
+                                    position: absolute;
+                                    top: 26%;
+                                    left: 8%;
+                                    text-align: center;
+                                    visibility: hidden;
+                                    opacity: 0;
+                                    transition: .5s;
+                                    transform: scale(1.1);
+                                    h3{
+                                        color: white;
+                                        font-family:  Friedrich Althausen;
+                                        font-weight: bolder;
+                                    }
+                                    span{
+                                        color: white;
+                                        font-size: 18px;
+                                        font-weight: bolder;
+                                        font-family:  Friedrich Althausen;
+                                    }
+                                    p{
+                                        color: white;
+                                        font-size: 12px;
+                                        font-family:  sans-serif;
+                                    }
+                                }
+                                &:hover{
+                                    img{
+                                        transform: scale(1.1);
+                                    }
+                                    .opacity{
+                                        visibility: visible;
+                                        opacity: .6;
+                                    }
+                                    .paletteText{
+                                        opacity: 1;
+                                        visibility: visible;
+                                        transform: scale(1);
+                                    }
+                                }
+                            }
+                            // PALETTEIMAGE MEDIA START
+                           @media screen and (max-width:1355px){
+                                .paletteImage{
+                                    .paletteText{
+                                        position: absolute;
+                                        // left: 2%
+                                        p{
+                                            font-size: 11px;
+                                        }
+                                        
+                                    }
+                                }
+                           }
+                           @media screen and (max-width:999px){
+                                .paletteImage{
+                                    .paletteText{
+                                        position: absolute;
+                                        left: 6%;
+                                        h3{
+                                            font-size: 20px;
+                                        }
+                                        p{
+                                            font-size:9px;
+                                        }
+                                        
+                                    }
+                                }
+                           }
+                           @media screen and (max-width:794px){
+                                .paletteImage{
+                                    .paletteText{
+                                        position: absolute;
+                                        left: 4%;
+                                        h3{
+                                            font-size: 18px;
+                                        }
+                                        p{
+                                            font-size:7px;
+                                        }
+                                        
+                                    }
+                                }
+                           }
+                           @media screen and (max-width: 768px){
+                                .paletteImage{
+                                    width: 100%;
+                                    margin-top: 15px;
+                                    .paletteText{
+                                        position: absolute;
+                                        left: 10%;
+                                        img{
+                                            width: 100%;
+                                        }
+                                        h3{
+                                            font-size: 20px;
+                                        }
+                                        p{
+                                            font-size:11px;
+                                        }
+                                        
+                                    }
+                                }
+                           }
+                           @media screen and (max-width: 505px){
+                                .paletteImage{
+                                    width: 100%;
+                                    margin-top: 15px;
+                                    .paletteText{
+                                        position: absolute;
+                                        top: 35%;
+                                        left: 8%;
+                                        img{
+                                            width: 100%;
+                                        }
+                                        h3{
+                                            font-size: 18px;
+                                        }
+                                        p{
+                                            font-size:10px;
+                                        }
+                                        
+                                    }
+                                }
+                           }
+                           @media screen and (max-width: 393px){
+                                .paletteImage{
+                                    width: 100%;
+                                    margin-top: 15px;
+                                    .paletteText{
+                                        position: absolute;
+                                        top: 35%;
+                                        left: 5%;
+                                        img{
+                                            width: 100%;
+                                        }
+                                        h3{
+                                            font-size: 16px;
+                                        }
+                                        p{
+                                            font-size:10px;
+                                        }
+                                        
+                                    }
+                                }
+                           }
+                           @media screen and (max-width: 360px){
+                                .paletteImage{
+                                    width: 100%;
+                                    margin-top: 15px;
+                                    .paletteText{
+                                        position: absolute;
+                                        top: 35%;
+                                        left: 6%;
+                                        img{
+                                            width: 100%;
+                                        }
+                                        h3{
+                                            font-size: 18px;
+                                        }
+                                        p{
+                                            font-size:10px;
+                                        }
+                                        
+                                    }
+                                }
+                           }
+                          
+                            // PALETTEIMAGE MEDIA END
+                        }
+                    }
+                }
+            }
+        }
+    }
+    //INFORMATION SECTION END
+
+    
+    // STORE SECTION START
+    .store{
+        background-color: rgb(14, 13, 13);
+        .container{
+             .text-center{
+                color: white;
+                font-size: 40px;
+                font-weight: bolder;
+                padding: 40px 0px;
+                font-family: Friedrich Althausen;
+             }
+            .icon-boxes{
+                // padding-top: 40px;
+                .d-flex{
+                    .icon-box{
+                        .row{
+                            .icon-image{
+                                width: 70px;
+                                height: 70px;
+                                background-color: white;
+                                transition: .5s;
+                                i{
+                                    color: #b367d0;
+                                    font-size: 27px;
+                                    transition: .5s;
+                                }
+                            }
+                            div{
+                                h4{
+                                    color: white;
+                                    font-weight: bolder;
+                                    font-family:  Friedrich Althausen;
+                                     @media screen and (max-width:1999px) {
+                                        font-size: 20px;
+                                    }
+                                     @media screen and (max-width:990px) {
+                                        font-size: 15px;
+                                    }
+                                     @media screen and (max-width:770px) {
+                                        font-size: 18px;
+                                    }
+                                }
+                                p{
+                                    color: white;
+                                    font-size: 14px;
+                                    margin-top: 14px;
+                                    font-family: sans-serif;
+                                    @media screen and (max-width:1999px) {
+                                        font-size: 12px;
+                                    }
+                                    @media screen and (max-width:990px) {
+                                        font-size: 9px;
+                                    }
+                                    @media screen and (max-width:575px) {
+                                        font-size: 14px;
+                                    }
+                                }
+                            }
+                            &:hover{
+                                .icon-image{
+                                    background-color: #b367d0;
+                                    i{
+                                        color: white;
+                                    }
+                                }
+                            }
+                            @media screen and (max-width:575px) {
+                                width: 100%;
+                            }
+                        }
+                    }
+                    }
+            }
+        }
+    }
+    // STORE SECTION END
+
+    // BRAND SECTION START
+    .brand{
+        background-image: url("https://cdn.shopify.com/s/files/1/0014/5673/4311/files/img-12_5493ab49-11cc-4227-ad9a-0552073aa992_1512x.jpg?v=1613525830");
+        background-size: cover;
+        height: 90vh;
+        background-repeat: no-repeat;
+        .container{
+            div{
+                h4{
+                    color: white;
+                    font-size: 30px;
+                    word-spacing: 3px;
+                    padding: 10% 0;
+                    font-weight: bolder;
+                    font-family:  Friedrich Althausen;
+                }
+                // Title Media Start
+                @media screen and (max-width:765px) {
+                    h4{
+                        font-size: 23px;
+                    }
+                }
+                // Title Media End
+            }
+            .glamour-look{
+                .row{
+                    :nth-child(1){
+                        h5{
+                            color: white;
+                            font-size: 27px;
+                            word-spacing: 3px;
+                            // padding: 0 10%;
+                            font-weight: bolder;
+                            font-family:  Friedrich Althausen;
+                        }
+                        // Media Start
+                        @media screen and (max-width:995px) {
+                            h5{
+                                font-size: 20px;
+                            }
+                        }
+                        // Media End
+                        P{
+                            color: white;
+                            font-size: 20px;
+                            padding-top: 5%;
+                            margin-left: 6%;
+                            font-family: Para Type;
+                        }
+                        // Text Media Start
+                        @media screen and (max-width:995px) {
+                            p{
+                                font-size: 16px;
+                            }
+                        }
+                        @media screen and (max-width:300px) {
+                            p{
+                                font-size: 15px;
+                            }
+                        }
+                        // Text Media End
+                    }
+                    :last-child{
+                        div{
+                            ul{
+                                list-style: none;
+                                line-height: 40px;
+                                li{
+                                    color: white;
+                                    font-size: 20px;
+                                    font-family: FONDSAU;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // BRAND SECTION END
+
+    // COSMETIC TEAM SECTION START
+    .cosmeticTeam{
+        background-color: rgb(14, 13, 13);
+        padding: 7% 0;
+        .container{
+            .row{
+                div{
+                    .teamCards{
+                        width: 80%;
+                        .imgTeam{
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            clip-path: circle(50% at 50% 50%);
+                            animation-name: imgTeam;
+                            animation-timing-function: linear;
+                            animation-iteration-count: infinite;
+                            img{
+                                width: 100%;                               
+                            }
+                            
+                        }
+                        .card-body{
+                            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+                            padding-top: 10px;
+                            h5{
+                                font-family: FONDSAU;
+                                font-style: italic;
+                                font-weight: bold;
+                                text-align: center;
+                                cursor: pointer;
+                                color: #b367d0;
+                                
+                            }
+                            p{
+                                color: white;
+                                text-align: center;
+                                font-family: FONDSAU;
+                                font-size: 15px;
+                                letter-spacing: 2px;
+                                transition: .5s;
+                                cursor: pointer;
+                                &:hover{
+                                    color: #b367d0;
+                                }
+                            }
+                        }
+                        // Hover of Card
+                        &:hover{
+                                .imgTeam{
+                                animation-duration: 1s;
+                                @keyframes imgTeam {
+                                    0%{
+                                        transform: scale(1.1);
+                                    }
+                                    50%{
+                                        transform: scale(1);
+                                    }
+                                    100%{
+                                        transform: scale(1.1);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+       
+    }  
+    // COSMETIC TEAM SECTION END
+}
